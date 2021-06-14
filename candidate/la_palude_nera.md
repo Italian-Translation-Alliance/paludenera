@@ -457,9 +457,9 @@ Protetta dalla palude a ovest, Gamla ha visto una piccola misura di prosperità 
 
 **2618** Una nave dell'Impero Ocra sta navigando verso Paludenera alla ricerca della spedizione perduta inviata qui cinque anni fa. Essa è comandata da Lord Travvarn (Guerriero 7, L), un potente mirmidone della Chiesa di Sarrath, il Dio Drago. Egli è assistito dall'Arconte Devers (Chierico 5, L), che impone una rigida disciplina tra l'equipaggio e i guerrieri della nave.
 
-**2704** **Daretop**, Pop: 415, Uomo (vasani); Allineamento N; Governante: Capo Kalfvald, Guerriero 8, N; Risorsa: Fattoria.
+**2704** **Cimardita**, Pop: 415, Uomo (vasani); Allineamento N; Governante: Capo Kalfvald, Guerriero 8, N; Risorsa: Fattoria.
 
-Daretop fornisce gran parte del cibo al Castello di Taldane. Il capo Kalfvald è un vecchio guerriero che ha superato il suo apice. Il capo è ferocemente fedele a re Ragnar e verrà in suo aiuto in qualsiasi lotta con il capo Yngvar (vedi 2509). Tuttavia, suo figlio Hamdir (Guerriero 7) non condivide la lealtà del padre. La morte di Kalfvald altererà drasticamente l'equilibrio di potere di re Ragnar.
+Cimardita fornisce gran parte del cibo al Castello di Taldane. Il capo Kalfvald è un vecchio guerriero che ha superato il suo apice. Il capo è ferocemente fedele a re Ragnar e verrà in suo aiuto in qualsiasi lotta con il capo Yngvar (vedi 2509). Tuttavia, suo figlio Hamdir (Guerriero 7) non condivide la lealtà del padre. La morte di Kalfvald altererà drasticamente l'equilibrio di potere di re Ragnar.
 
 **2706** Quest'isola brulica di granchi giganti (3 DV). Le lunghe navi di Daretop (2704), Castle Taldane (2505), Gamla (2509) e Ysby(2411) vengono qui per cacciare i granchi. È pericoloso, ma è un grande sport per i vichinghi.
 
