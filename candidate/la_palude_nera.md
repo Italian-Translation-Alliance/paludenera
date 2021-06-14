@@ -85,7 +85,7 @@ Le conseguenze della Montagna Che Cadde hanno avuto un grande impatto sulla geog
 Questa lunga isola barriera ha poco di interessante oltre a sterpaglie e sabbia. L'unico cespuglio di Pyrocantha cresce in abbondanza qui. Le sue bacche possono essere raccolte in autunno e usate per creare una pomata che, strofinata sull'armatura, dona un bonus di +1. Sfortunatamente, la pomata dura solo una battaglia, ma si possono applicare dosi aggiuntive. Applicazioni multiple di
 non hanno un effetto cumulativo.
 
-### Picchi di Dragossa
+### Picchi Dragossa
 
 Le pendici occidentali di queste alte montagne hanno subito la maggior parte dei detriti espulsi dallo schianto della Montagna Che Cadde. I detriti coprono la maggior parte delle valli dei versanti occidentali. Nei secoli successivi, si è formato un esteso sistema di caverne. Si ritiene che la rete si estende per chilometri lungo il bordo occidentale della catena montuosa.
 
@@ -377,7 +377,7 @@ Lord Maracan è l'attuale capo e i suoi piani ruotano intorno al fingersi come e
 
 **1506** **Ethanfeld**, Pop: 145, Uomo (Ostrobardo); Allineamento L; Governante: Lord Ingwold, Guerriero 6, L; Risorsa: Pesce.
 
-Questo villaggio trae gran parte del suo sostentamento dalla pesca, ma gode anche di un po' di commercio per equipaggiare gli avventurieri che si dirigono a est verso i Picchi di Dragossa. Lord Ingwold guida 20 uomini conosciuti come la Compagnia Dragonbane. Essi proteggono dai mostri la valle a monte del fiume.
+Questo villaggio trae gran parte del suo sostentamento dalla pesca, ma gode anche di un po' di commercio per equipaggiare gli avventurieri che si dirigono a est verso i Picchi Dragossa. Lord Ingwold guida 20 uomini conosciuti come la Compagnia dei Flagelladraghi. Essi proteggono dai mostri la valle a monte del fiume.
 
 **1515** Un santuario dedicato al dio del mare, Mannann, è mantenuto sull'isola da Tavis (Chierico 8). Il suo sacro dovere è quello di aiutare i sopravvissuti al naufragio. Egli ha una piccola barca a vela ad un solo albero che usa per perlustrare le acque.
 
@@ -389,7 +389,7 @@ Sir Dennis Langre ha servito sulla frontiera con il rivale del Gran Regno, l'Imp
 
 **1602** **Forte Wessex;** Bedewald the Atheling, Guerriero 6, L; 50 uomini.
 
-Questo è l'avamposto più orientale degli Ostrobardi. Protegge le fattorie e i villaggi a ovest dalle creature che abitano dei Picchi di Dragossa. Al comando c'è il figlio maggiore del Duca Caedwin, Bedewald. Egli è l'opposto di suo padre, libertino in quasi tutti i modi. Gli è stato dato Forte Wessex in modo che il duca non dovesse sentire i suoi assilli.
+Questo è l'avamposto più orientale degli Ostrobardi. Protegge le fattorie e i villaggi a ovest dalle creature che abitano dei Picchi Dragossa. Al comando c'è il figlio maggiore del Duca Caedwin, Bedewald. Egli è l'opposto di suo padre, libertino in quasi tutti i modi. Gli è stato dato Forte Wessex in modo che il duca non dovesse sentire i suoi assilli.
 
 **1609** La terra tra la costa e la palude è occupata da 325 coboldi (½ DV) della tribù degli Mangiaconchiglia. Sono divisi in sei clan in faida che combattono continuamente tra di loro. Si uniranno solo si uniscono solo quando gli stranieri li invadono. Usano la loro conoscenza superiore del terreno per rendere la vita miserabile agli invasori.
 
