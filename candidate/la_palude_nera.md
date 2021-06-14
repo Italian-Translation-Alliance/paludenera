@@ -1,4 +1,4 @@
-# la Palude Nera
+# Paludenera
 
 ## Introduzione
 
@@ -6,9 +6,9 @@ Agli albori del gioco di ruolo, la campagna e la sua ambientazione erano già st
 
 Il limite dei giochi di ruolo è solo l'immaginazione collettiva  dell'Arbitro e dei suoi giocatori. Ma gli Arbitri alle prime armi sono spesso scoraggiati non solo dallo sforzo necessario per padroneggiare le regole del gioco, ma anche dal dover creare un'ambientazione per la campagna. Molti hanno dato il consiglio di iniziare in piccolo, di dettagliare una città o un villaggio vicino a un dungeon come punto di partenza della campagna. Man mano che l'Arbitro acquisisce esperienza, può in seguito espandere le zone selvagge circostanti, arricchendo l'ambientazione della campagna con tutti i dettagli che desidera.
 
-Per quanto buono sia questo consiglio, sarebbe utile avere degli esempi di come sarebbe una una campagna ricca di dettagli. la Palude Nera non ha lo scopo di definire i limiti delle vecchie edizioni, ma piuttosto le loro possibilità, per mostrare agli Arbitri un modo di organizzare le proprie campagne e infine come fonte di ispirazione.
+Per quanto buono sia questo consiglio, sarebbe utile avere degli esempi di come sarebbe una una campagna ricca di dettagli. Paludenera non ha lo scopo di definire i limiti delle vecchie edizioni, ma piuttosto le loro possibilità, per mostrare agli Arbitri un modo di organizzare le proprie campagne e infine come fonte di ispirazione.
 
-La Palude Nera è stato progettato per evocare le prime campagne del gioco di ruolo più popolare del mondo. Si svolge in una natura selvaggia piena di pericoli e della possibilità di ricchi tesori. È organizzato come una griglia di esagoni numerati con i luoghi chiave per esagoni specifici. I luoghi sono descritti brevemente in uno o due paragrafi. La maggior parte dei luoghi sono destinati a servire come un trampolino di lancio per l'Arbitro per creare i propri dettagli. Inoltre, entità geografiche, organizzazioni e regni che si estendono su più esagoni sono anch'essi descritti.
+Paludenera è stato progettato per evocare le prime campagne del gioco di ruolo più popolare del mondo. Si svolge in una natura selvaggia piena di pericoli e della possibilità di ricchi tesori. È organizzato come una griglia di esagoni numerati con i luoghi chiave per esagoni specifici. I luoghi sono descritti brevemente in uno o due paragrafi. La maggior parte dei luoghi sono destinati a servire come un trampolino di lancio per l'Arbitro per creare i propri dettagli. Inoltre, entità geografiche, organizzazioni e regni che si estendono su più esagoni sono anch'essi descritti.
 
 ### La mappa esagonale
 
@@ -32,19 +32,19 @@ Il risultato è una campagna in cui i giocatori sentono che stanno forgiando il 
 
 ## Panoramica
 
-La Palude Nera si trova ai margini della civiltà, situata intorno a una grande baia sul confine occidentale del Mare Grigio. Per un breve periodo, le frontiere dei grandi imperi hanno abbracciato la regione, ma si sono ritirati secoli fa. Rimangono solo pochi avamposti di civiltà in mezzo ai pericoli della natura selvaggia che si sta avvicinando.
+Paludenera si trova ai margini della civiltà, situata intorno a una grande baia sul confine occidentale del Mare Grigio. Per un breve periodo, le frontiere dei grandi imperi hanno abbracciato la regione, ma si sono ritirati secoli fa. Rimangono solo pochi avamposti di civiltà in mezzo ai pericoli della natura selvaggia che si sta avvicinando.
 
-La baia che domina la Palude Nera è stata creata due millenni fa dal disastro noto come La montagna Che Cadde. Dopo che la montagna cadde, strani e terribili mostri apparvero nella terra desolata circostante. Gli elfi arrivarono alla Palude Nera, scacciarono le creature cadute e guarirono la terra. Tuttavia, dopo due millenni e mezzo, il loro potere si sta indebolendo e i mostri sono tornati a insinuarsi negli angoli bui delle terre selvagge.
+La baia che domina Paludenera è stata creata due millenni fa dal disastro noto come La montagna Che Cadde. Dopo che la montagna cadde, strani e terribili mostri apparvero nella terra desolata circostante. Gli elfi arrivarono a Paludenera, scacciarono le creature cadute e guarirono la terra. Tuttavia, dopo due millenni e mezzo, il loro potere si sta indebolendo e i mostri sono tornati a insinuarsi negli angoli bui delle terre selvagge.
 
-Un migliaio di anni fa, l'Impero Luminoso stabilì il Castello della Palude Nera e per un breve periodo le razze furono unite in un'alleanza e respinsero i mostri. Poi ottocento anni fa, l'Impero Luminoso crollò dopo essere stato sconfitto dai barbari nella battaglia cataclismica conosciuta conosciuta come La  Frantumazione. La Palude Nera fu una delle prime regioni ad essere abbandonata. In seguito alla ritirata dell'impero ciò che rimase fu un mosaico di regni governati da piccoli re e tiranni.
+Un migliaio di anni fa, l'Impero Luminoso stabilì il Castello di Paludenera e per un breve periodo le razze furono unite in un'alleanza e respinsero i mostri. Poi ottocento anni fa, l'Impero Luminoso crollò dopo essere stato sconfitto dai barbari nella battaglia cataclismica conosciuta conosciuta come La  Frantumazione. Paludenera fu una delle prime regioni ad essere abbandonata. In seguito alla ritirata dell'impero ciò che rimase fu un mosaico di regni governati da piccoli re e tiranni.
 
-Dopo la Frantumazione, la frontiera si è lentamente ritirata. Al posto della sicurezza ordinata dell'Impero Luminoso, mostri, barbari e altri vagavano sempre più spesso senza ritegno. Al giorno d'oggi, coloro che vengono nella Palude Nera sono più interessati al viz, uccidere mostri o gli strani artefatti lasciati dalla Montagna Che Cadde piuttosto che stabilire nuovi insediamenti. L'unica forza che si oppone alla natura selvaggia sono i Ranger della Palude Nera. Chiunque sia disposto a difendere la terra e la sua gente è il benvenuto nei loro ranghi.
+Dopo la Frantumazione, la frontiera si è lentamente ritirata. Al posto della sicurezza ordinata dell'Impero Luminoso, mostri, barbari e altri vagavano sempre più spesso senza ritegno. Al giorno d'oggi, coloro che vengono a Paludenera sono più interessati al viz, uccidere mostri o gli strani artefatti lasciati dalla Montagna Che Cadde piuttosto che stabilire nuovi insediamenti. L'unica forza che si oppone alla natura selvaggia sono i Ranger di Paludenera. Chiunque sia disposto a difendere la terra e la sua gente è il benvenuto nei loro ranghi.
 
 ### La Montagna Che Cadde
 
 Nei giorni in cui l'uomo conosceva solo la lavorazione della pietra e combatteva per la propria l'esistenza contro gli orchi e i goblin, il cielo si trasformò in cenere e cadde la montagna infuocata sulla terra. Il mondo si aprì e le grigie acque grigie si precipitarono. Quelli che sopravvissero all'impatto furono persi mentre le nuvole bollenti nuvole bollenti si precipitarono in tutte le direzioni lasciando dietro di loro una terra desolata.
 
-La Montagna Che Cadde lasciò un dono: la magia. Vicino e lontano, color che erano acuti e forti di cuore scoprirono nuovi poteri per plasmare il mondo. Nella desolazione intorno alla Baia del Fumo gli avventurosi trovarono il viz, la magia in forma fisica. E c'era di più, sparsi nel paesaggio c'erano strani artefatti e bizzarre creature sopravvissute alla Montagna Che Cadde. Per un certo periodo uomini, nani, orchi, goblin e altre razze affrontarono i pericoli e combatterono tra loro nelle terre desolate. Poi arrivarono gli elfi nella Palude Nera, che espulsero le razze in lotta, scacciarono i mostri e guarirono la terra.
+La Montagna Che Cadde lasciò un dono: la magia. Vicino e lontano, color che erano acuti e forti di cuore scoprirono nuovi poteri per plasmare il mondo. Nella desolazione intorno alla Baia del Fumo gli avventurosi trovarono il viz, la magia in forma fisica. E c'era di più, sparsi nel paesaggio c'erano strani artefatti e bizzarre creature sopravvissute alla Montagna Che Cadde. Per un certo periodo uomini, nani, orchi, goblin e altre razze affrontarono i pericoli e combatterono tra loro nelle terre desolate. Poi gli elfi arrivarono a Paludenera, che espulsero le razze in lotta, scacciarono i mostri e guarirono la terra.
 
 ### Viz
 
@@ -54,27 +54,27 @@ Il viz permette a un mago di lanciare incantesimi senza perderne la memoria. Il 
 
 ### Il selvaggio nord
 
-A nord della Palude Nera si trova il Selvaggio Nord, una fredda terra di abeti scuri e taiga. Il possente fiume Belaya scorre nel cuore di questa terra. Sparse per il selvaggio Nord ci sono le città-stato umane di Rurasin.
+A nord di Paludenera si trova il Selvaggio Nord, una fredda terra di abeti scuri e taiga. Il possente fiume Belaya scorre nel cuore di questa terra. Sparse per il selvaggio Nord ci sono le città-stato umane di Rurasin.
 
 ### Terra del Sud
 
-Confinante con la Palude Nera a sud c'è la regione conosciuta come Terre Meridionali. Si trova alla frontiera della provincia di Vasa del Grande Regno ed è stata recentemente aperta all'insediamento. Il Regno di Bolzak nelle Montagne Bianche è il luogo di nascita di molti nani della Palude Nera.
+Confinante con Paludenera a sud c'è la regione conosciuta come Terre Meridionali. Si trova alla frontiera della provincia di Vasa del Grande Regno ed è stata recentemente aperta all'insediamento. Il Regno di Bolzak nelle Montagne Bianche è il luogo di nascita di molti nani di Paludenera.
 
 ### Note di adattamento
 
-La mappa della Palude Nera è progettata per funzionare con le *Lands of Adventure*, una serie di ambientazioni. Per coloro che hanno il prodotto *Lands of Adventure* (o i precedenti prodotti *Points of Light* di Goodman Games) la Palude Nera confina con il confine settentrionale delle Terre Meridionali e si trova un centinaio di miglia a ovest delle Terre Selvagge. È ambientato durante il periodo rappresentato in Terre Meridionali, l'era del Grande Regno.
+La mappa di Paludenera è progettata per funzionare con le *Lands of Adventure*, una serie di ambientazioni. Per coloro che hanno il prodotto *Lands of Adventure* (o i precedenti prodotti *Points of Light* di Goodman Games) Paludenera confina con il confine settentrionale delle Terre Meridionali e si trova un centinaio di miglia a ovest delle Terre Selvagge. È ambientato durante il periodo rappresentato in Terre Meridionali, l'era del Grande Regno.
 
-Ci sono diverse possibilità di inserire la Palude Nera nella vostra campagna. La prima, è situata sulla frontiera del "mondo conosciuto". Un impero un tempo molto esteso, che comprendeva la Palude Nera, da allora si è si è ritirato o è crollato. Un'altra possibilità, la Palude Nera si trova in un angolo fuori mano del mondo dove la terra è marginale per l'agricoltura e le miniere. In tempi di declino, è uno dei primi posti ad essere abbandonato, o nel migliore dei casi ignorato.
+Ci sono diverse possibilità di inserire Paludenera nella vostra campagna. La prima, è situata sulla frontiera del "mondo conosciuto". Un impero un tempo molto esteso, che comprendeva Paludenera, da allora si è si è ritirato o è crollato. Un'altra possibilità, Paludenera si trova in un angolo fuori mano del mondo dove la terra è marginale per l'agricoltura e le miniere. In tempi di declino, è uno dei primi posti ad essere abbandonato, o nel migliore dei casi ignorato.
 
-Gli insediamenti delle quattro razze (uomini, elfi, nani, halfling) sono lontane colonie di patrie razziali. La lontananza della Palude Nera significa che questi insediamenti sono effettivamente indipendenti.
+Gli insediamenti delle quattro razze (uomini, elfi, nani, halfling) sono lontane colonie di patrie razziali. La lontananza di Paludenera significa che questi insediamenti sono effettivamente indipendenti.
 
-Ci sono quattro aree distinte di uomini nella Palude Nera. Gli Ostrobardi sono nuovi alla civiltà, essendosi affrancati dei loro modi barbari nell'ultimo secolo. Ci sono gli uomini lungo la costa meridionale della Baia del Fumo che va dal Castello della Palude Nera a ovest fino a Jorvik a est. Essi sono un residuo sopravvissuto dell'Impero Luminoso. I vichinghi Vasani hanno quattro insediamenti lungo il bordo orientale della Palude Nera. Sono arrivati qui dopo aver perso gran parte della loro patria a favore del Grande Regno. Infine, c'è il Grande Regno che sta iniziando ad espandersi nella Palude Nera.
+Ci sono quattro aree distinte di uomini a Paludenera. Gli Ostrobardi sono nuovi alla civiltà, essendosi affrancati dei loro modi barbari nell'ultimo secolo. Ci sono gli uomini lungo la costa meridionale della Baia del Fumo che va dal Castello di Paludenera a ovest fino a Jorvik a est. Essi sono un residuo sopravvissuto dell'Impero Luminoso. I vichinghi Vasani hanno quattro insediamenti lungo il bordo orientale di Paludenera. Sono arrivati qui dopo aver perso gran parte della loro patria a favore del Grande Regno. Infine, c'è il Grande Regno che sta iniziando ad espandersi a Paludenera.
 
-Vengono fatti diversi riferimenti al regno nanico di Bolzak che si trova che si trova nelle Terre Meridionali. Questo può essere ignorato o sostituito con un adeguato regno nanico a vostra scelta. Vecchia Tenuta è una base dei nani per esplorare la Palude Nera quindi non è fondamentale avere un regno immediatamente a sud.
+Vengono fatti diversi riferimenti al regno nanico di Bolzak che si trova che si trova nelle Terre Meridionali. Questo può essere ignorato o sostituito con un adeguato regno nanico a vostra scelta. Vecchia Tenuta è una base dei nani per esplorare Paludenera quindi non è fondamentale avere un regno immediatamente a sud.
 
-I Ranger della Palude Nera sono concepiti come un'organizzazione indigena della zona. Se un Arbitro vuole incorporare la classe Ranger questo sarebbe un punto di partenza naturale.
+I Ranger di Paludenera sono concepiti come un'organizzazione indigena della zona. Se un Arbitro vuole incorporare la classe Ranger questo sarebbe un punto di partenza naturale.
 
-Per la Casa del Corvo, un Arbitro potrebbe usare gli elfi oscuri di altri giochi di ruolo fantasy. Come presentato nella Palude Nera, sono un gruppo che crede che gli elfi debbano governare e schiavizzare le altre razze. Questo è considerato ripugnante per le culture della Palude Nera.
+Per la Casa del Corvo, un Arbitro potrebbe usare gli elfi oscuri di altri giochi di ruolo fantasy. Come presentato in Paludenera, sono un gruppo che crede che gli elfi debbano governare e schiavizzare le altre razze. Questo è considerato ripugnante per le culture di Paludenera.
 
 ## Geografia
 
@@ -95,7 +95,7 @@ Le correnti del Mare Grigio hanno fatto sì che quest'isola accumulasse una gran
 
 ### Fiume Lanis
 
-Il fiume Lanis scorre a nord delle Terre Meridionali ed è largo tre miglia quando entra nella Palude Nera. La corrente è profonda e lenta e permette facilmente a navi e chiatte di viaggiare in entrambe le direzioni. I mercanti viaggiano tra il Castello la Palude Nera, Ovestguardia e il regno nanico di Bolzak. A volte occasionali nave lunghe vasani teneranno la  fortuna facendo razzie più a sud.
+Il fiume Lanis scorre a nord delle Terre Meridionali ed è largo tre miglia quando entra a Paludenera. La corrente è profonda e lenta e permette facilmente a navi e chiatte di viaggiare in entrambe le direzioni. I mercanti viaggiano tra il Castello Paludenera, Ovestguardia e il regno nanico di Bolzak. A volte occasionali nave lunghe vasani teneranno la  fortuna facendo razzie più a sud.
 
 ### Montagne Pendar
 
@@ -103,7 +103,7 @@ Uno sperone delle Montagne Bianche che collegano un centinaio di miglia a nord-o
 
 ### Fiume Noce Rossa
 
-Questo fiume prende il suo nome dal numero di boschetti di noce rossa che crescono lungo le sue rive. La noce rossa è considerata una gustosa prelibatezza dagli abitanti e dagli animali della Palude Nera. Ogni autunno, la superficie del fiume è coperta da di noci rosse galleggianti che cadono dagli alberi. Questo ha lo sfortunato effetto di attrarre ippogrifi e grifoni che scendono in picchiata e le raccolgono dall'acqua. Non disdegnano di dare un morso più sostanzioso a un incauto viaggiatore sul fiume.
+Questo fiume prende il suo nome dal numero di boschetti di noce rossa che crescono lungo le sue rive. La noce rossa è considerata una gustosa prelibatezza dagli abitanti e dagli animali di Paludenera. Ogni autunno, la superficie del fiume è coperta da di noci rosse galleggianti che cadono dagli alberi. Questo ha lo sfortunato effetto di attrarre ippogrifi e grifoni che scendono in picchiata e le raccolgono dall'acqua. Non disdegnano di dare un morso più sostanzioso a un incauto viaggiatore sul fiume.
 
 ### L'isola Arenaria 
 
@@ -112,7 +112,7 @@ tesoro. Sopravento, si riempie gradualmente di sabbia fino a raggiungere le dune
 
 ### Baia Protetta
 
-Una catena di isole assorbe il peso di qualsiasi tempesta proveniente dal Mare Grigio. È anche l'unico ingresso alla Baia del Fumo e al resto della Palude Nera. C'è una possibilità su 3 al giorno di incontrare una nave che entra o esce dalla Baia del Fumo.
+Una catena di isole assorbe il peso di qualsiasi tempesta proveniente dal Mare Grigio. È anche l'unico ingresso alla Baia del Fumo e al resto di Paludenera. C'è una possibilità su 3 al giorno di incontrare una nave che entra o esce dalla Baia del Fumo.
 
 ### Baia del Fumo
 
@@ -150,7 +150,7 @@ Il lato sottovento di quest'isola è soffocato da boschetti di cespugli spinosi 
 
 ### Muroponente
 
-Più a sud, il Muroponente forma il confine occidentale della Provincia di Vasa del Grande Regno. L'estremità settentrionale termina alla Palude Nera ed è la dimora di diversi clan di giganti delle colline.
+Più a sud, il Muroponente forma il confine occidentale della Provincia di Vasa del Grande Regno. L'estremità settentrionale termina a Paludenera ed è la dimora di diversi clan di giganti delle colline.
 
 ## Voci
 
@@ -159,12 +159,12 @@ Più a sud, il Muroponente forma il confine occidentale della Provincia di Vasa 
 | 1  | A Stranolmo, gli halfling hanno scoperto una potente spada della legge (F)                                                                                                        |
 | 2  | I goblin vagano per le montagne Pendar (T)                                                                                                                                        |
 | 3  | Fate attenzione a vagare nei boschi grigi, il confine tra i mondi è debole (T)                                                                                                    |
-| 4  | Gli elfi fanno feste sfrenate e dissolute nel castello della Palude Nera (F)                                                                                                      |
+| 4  | Gli elfi fanno feste sfrenate e dissolute nel castello di Paludenera (F)                                                                                                      |
 | 5  | Il Duca degli Ostrobardi è noto per le sue feste sfrenate (T)                                                                                                                     |
 | 6  | Il Mago dell'Isola permetterà a chiunque gli dica un indovinello che non può risolvere di rimanere sulla Montagna Che Cade (F)                                                    |
 | 7  | Lord Mazardan di Vecchia Tenuta offre 1.000 PO per ogni viz portato a lui (parzialmente falso, offrirà 200 PO)                                                                     |
 | 8  | La presa del re Ragnar sul trono del castello di Taldane è debole. Sta per scoppiare una guerra civile (T)                                                                        |
-| 9  | I Ranger della Palude Nera stanno reclutando nuovi membri (T)                                                                                                                     |
+| 9  | I Ranger di Paludenera stanno reclutando nuovi membri (T)                                                                                                                     |
 | 10 | Sir Causari di Forte Inuacus sta raccogliendo forze per rovesciare gli elfi (F)                                                                                                   |
 | 11 | Tre bellissime fanciulle dimorano nel lago più occidentale delle Paludi Nere, esse doneranno il loro tesoro a coloro che le compiaceranno (F)                                     |
 | 12 | Attenti a coloro che marciano sotto le ali del corvo (T)                                                                                                                          |
@@ -172,16 +172,16 @@ Più a sud, il Muroponente forma il confine occidentale della Provincia di Vasa 
 | 14 | Uno strano maelstrom appare nella parte occidentale della Baia del Fumo. Si può vedere un tesoro sul fondo (T)                                                                    |
 | 15 | Gli Ostrobardi stanno avendo problemi con gli attacchi degli ippogrifi (T)                                                                                                        |
 | 16 | Lord Mazardan ospita ogni anno un sontuoso banchetto a Vecchia Tenuta. Solo gli esploratori di maggior successo sono invitati. (T)                                                 |
-| 17 | I Mirmidoni di Sarrath stanno conducendo una forza di invasione alla Palude Nera (F)                                                                                              |
+| 17 | I Mirmidoni di Sarrath stanno conducendo una forza di invasione a Paludenera (F)                                                                                              |
 | 18 | Così tanti orchi sono morti nelle Colline Cremisi che le colline sono infestate dai loro spettri (F)                                                                              |
 | 19 | La maggior parte dei maghi dell'epoca dell'Impero Luminoso viveva nei conclavi a sud delle Paludi Nere. Le loro case in rovina sono pericolose, ma molte sono rimaste intatte (T) |
-| 20 | Il duca degli Ostrobardi terrà un grande torneo, il primo nella regione della Palude Nera (F)                                                                                     |
+| 20 | Il duca degli Ostrobardi terrà un grande torneo, il primo nella regione di Paludenera (F)                                                                                     |
 
 ## Località
 
 **0105** Queste sono le rovine di Daur Anthar, la tenuta del famoso maestro di ferro nanico, Gamli Norreshield. È qui che ha trovato una vena di metallo ricco di viz e ne studiò l'uso nella forgiatura di armi e armature. Quando la tenuta fu abbandonata diverse centinaia di anni fa, un elementale della terra (DV 12) rimase a guardia delle rovine.
 
-**0107** Una banda di briganti vuole vendicarsi dei Ranger della Palude Nera e stanno marciando verso il castello di Quercianera. Sigrun il Senz'ossa (Guerriero 9), due capitani (Guerriero 6,5) e tre tenenti (Guerriero 4) guidano 115 briganti.
+**0107** Una banda di briganti vuole vendicarsi dei Ranger di Paludenera e stanno marciando verso il castello di Quercianera. Sigrun il Senz'ossa (Guerriero 9), due capitani (Guerriero 6,5) e tre tenenti (Guerriero 4) guidano 115 briganti.
 
 **0211** Vedendo gli halfling di Neovallata come una facile preda, Re Graptar lo Stupendo (trattare come un hobgoblin e brandire un martello da guerra +1) ha spostato 150 goblin nelle Montagne Pendar dove stabilirono la loro nuova base. Attorno al re ci sono dodici guardie (trattare come hobgoblin) che proteggono Graptar da eventuali usurpatori.
 
@@ -189,7 +189,7 @@ Più a sud, il Muroponente forma il confine occidentale della Provincia di Vasa 
 
 **0217 Vecchia Tenuta**, Pop: 342, Nano; Allineamento L; Governante: Lord Mazardan, Guerriero 6, L, Nano; Risorsa: Mercato.
 
-Vecchia Tenuta è l'avamposto più settentrionale del regno nanico di Bolzak. È stato fondato come base per la ricerca di viz dai Ferraioli di Bolzak. È diventato un porto di scambio dove i mercanti di tutta la Palude Nera vengono e commerciano con i nani. Ci sono 5d10 mercanti stranieri (umani, elfi, halfling) con le loro guardie presenti.
+Vecchia Tenuta è l'avamposto più settentrionale del regno nanico di Bolzak. È stato fondato come base per la ricerca di viz dai Ferraioli di Bolzak. È diventato un porto di scambio dove i mercanti di tutta Paludenera vengono e commerciano con i nani. Ci sono 5d10 mercanti stranieri (umani, elfi, halfling) con le loro guardie presenti.
 
 Lord Mazardan è stato uno degli esploratori di maggior successo e nominato Lord di Vecchia Tenuta due decenni fa. È anche il capitano supremo della Compagnia degli Avventurieri del Nord.  Un'associazione di esploratori alla ricerca di fonti di vita. Ogni anno ospita un grande banchetto nella sala della compagnia
 dove i membri e i loro amici mangiano e raccontano le loro scoperte.
@@ -202,11 +202,11 @@ dove i membri e i loro amici mangiano e raccontano le loro scoperte.
 
 **0407** **Castello Quercianera**; Sineriano, Guerriero 4/Mago 6 L, Elfo; 50 elfi, 60 uomini, 40 nani, 20 halfling.
 
-Questo castello è il quartier generale dei Ranger della Palude Nera, un'organizzazione dedita a preservare la pace tra le razze e a mantenere la Palude Nera libera dalle depredazioni dei mostri. Essi considerano la Fratellanza del Corvo il loro nemico mortale (vedi 1807). Il Tempio di Thor al Castello della Palude Nera è un alleato soprattutto quando sono coinvolti dei mostri.
+Questo castello è il quartier generale dei Ranger di Paludenera, un'organizzazione dedita a preservare la pace tra le razze e a mantenere Paludenera libera dalle depredazioni dei mostri. Essi considerano la Fratellanza del Corvo il loro nemico mortale (vedi 1807). Il Tempio di Thor al Castello di Paludenera è un alleato soprattutto quando sono coinvolti dei mostri.
 
-I Ranger della Palude Nera sono stati fondati dal leggendario Geran Quercianera quindici secoli fa durante l'invasione dei barbari Ostrobardi. Geran Quercianera fu determinante nel ristabilire la pace. Anche se non riuscì di unirli politicamente, una tradizione di assistenza reciproca prese piede tra le razze.
+I Ranger di Paludenera sono stati fondati dal leggendario Geran Quercianera quindici secoli fa durante l'invasione dei barbari Ostrobardi. Geran Quercianera fu determinante nel ristabilire la pace. Anche se non riuscì di unirli politicamente, una tradizione di assistenza reciproca prese piede tra le razze.
 
-Il castello serve come campo di addestramento principale per le nuove reclute dei ranger, nonché luogo di incontro per il raduno biennale dei capitani. Contiene laboratori e negozi per rifornire i vari circoli di ranger che vagano per tutta la Palude Nera. I chierici di Silvanus, il Signore della Foresta, sono tradizionalmente di stanza al castello per fornire aiuto e sostegno. Grazie agli elfi, una delle migliori scuole di magia della Palude Nera si trova qui. La scuola tende a studiare gli aspetti pratici piuttosto che gli aspetti teorici della magia.
+Il castello serve come campo di addestramento principale per le nuove reclute dei ranger, nonché luogo di incontro per il raduno biennale dei capitani. Contiene laboratori e negozi per rifornire i vari circoli di ranger che vagano per tutta Paludenera. I chierici di Silvanus, il Signore della Foresta, sono tradizionalmente di stanza al castello per fornire aiuto e sostegno. Grazie agli elfi, una delle migliori scuole di magia di Paludenera si trova qui. La scuola tende a studiare gli aspetti pratici piuttosto che gli aspetti teorici della magia.
 
 Il Gran Capitano Sinerian è stato il capo per oltre un secolo e si aspetta di servire per diversi decenni ancora. Le sue più grandi sfide sono state affrontare le incursioni dei vichinghi vasani dall'altra parte del Mare Grigio e il crescente potere del Grande Regno a sud-est. Se le città-stato di Rurasin a nord si dovessero alleare, potrebbe rivelarsi un'ulteriore minaccia per la pace.
 
@@ -214,7 +214,7 @@ Il Gran Capitano Sinerian è stato il capo per oltre un secolo e si aspetta di s
 
 Stranolmo è un villaggio di halfling che circonda una grande collina a sud di dell'Acqua di Olmi. La regione intorno al villaggio ha un terreno ricco per l'agricoltura e gli halfling forniscono gran parte del cibo necessario al Castello Quercianera (vedi 0407).
 
-Il sindaco Holbein, insieme al suo conestabile, mantiene la pace, ma lotta quando un mostro occasionale emerge dalle rovine del torrione del mago (vedi 0309) a nord-ovest. Oltre ad essere sindaco, Holbein è un abile pittore e i suoi lavori sono stati commissionati più volte dai ricchi e nobili della Palude Nera.
+Il sindaco Holbein, insieme al suo conestabile, mantiene la pace, ma lotta quando un mostro occasionale emerge dalle rovine del torrione del mago (vedi 0309) a nord-ovest. Oltre ad essere sindaco, Holbein è un abile pittore e i suoi lavori sono stati commissionati più volte dai ricchi e nobili di Paludenera.
 
 **0413** Una tribù di 190 coboldi domina la foresta a nord del lago.
 Il Gran Capo Cruk governa i coboldi con l'assistenza di altri sei capi della tribù (trattati come goblin). Egli guida anche i coboldi nel culto di una strana spada luminosa della legge in un boschetto aperto al centro della foresta. Quando i coboldi arrivarono per la prima volta, un secolo fa, cercarono di prendere la spada, ma essa uccideva chiunque la toccasse.
@@ -231,13 +231,13 @@ Ashdown è la casa di molti ranger in pensione così come dei coniugi e dei figl
 
 **0610** **Verdello**, Pop: 642, Halfling; Allineamento L; Governante: Ealdorman Paddock Ryburn, L; Risorsa: Fattoria.
 
-Verdello è il principale insediamento degli halfling di Neovallata e un importante mercato per le fattorie circostanti. Qui i mercanti di tutta la Palude Nera accorrono per acquistare grano e altri prodotti da esportare nelle loro regioni d'origine. Quando risiedono, i mercanti alloggiano in un borgo appena fuori Verdello conosciuto come Sacco. Così chiamato dai sacchi di lana imbottiti su cui i mercanti si siedono mentre fanno offerte o negoziano i prezzi. L'Ealdorman Paddock mantiene un grande contingente di 20 poliziotti guidati da Sceriffo Barris Ironoak per tenere i mercanti al loro posto.
+Verdello è il principale insediamento degli halfling di Neovallata e un importante mercato per le fattorie circostanti. Qui i mercanti di tutta Paludenera accorrono per acquistare grano e altri prodotti da esportare nelle loro regioni d'origine. Quando risiedono, i mercanti alloggiano in un borgo appena fuori Verdello conosciuto come Sacco. Così chiamato dai sacchi di lana imbottiti su cui i mercanti si siedono mentre fanno offerte o negoziano i prezzi. L'Ealdorman Paddock mantiene un grande contingente di 20 poliziotti guidati da Sceriffo Barris Ironoak per tenere i mercanti al loro posto.
 
 **0616** Il Bruciacollina scorre attraverso una gola profonda 50' per oltre mezzo miglio. Durante l'Impero Luminoso, i maghi stabilirono qui un conclave per raccogliere il viz che si trovava nelle scogliere della gola. Due secoli dopo la caduta dell'impero, il conclave fu abbandonato. Le scogliere sono scavate dai diversi livelli del conclave. Molti dei livelli si estendono entrambi i lati della gola con ponti che li collegano. Non tutti sono sicuri.
 
 **0702** Sei troll (DV 6, rigenerazione) banchettano con i cadaveri di un mercante ucciso di Fortizio (vedi 1305). Il fumo del loro fuoco di cottura può essere visto da due miglia di distanza.
 
-**0712** Questa torre in rovina una volta era usata come faro. Guidava le navi verso la foce del fiume Lanis. Costruita durante l'Impero Luminoso fu abbandonata diversi secoli fa. Da allora, una successione di signori del caos hanno ampliato il complesso sotto la torre per creare una base da usata contro il Castello della Palude Nera (vedi 0913). Attualmente, si crede che sia vuota, essendo stata sgomberata dagli avventurieri più di quarant'anni fa dopo l'uccisione di Atacyl Oathbinder, un vampiro mago non morto.
+**0712** Questa torre in rovina una volta era usata come faro. Guidava le navi verso la foce del fiume Lanis. Costruita durante l'Impero Luminoso fu abbandonata diversi secoli fa. Da allora, una successione di signori del caos hanno ampliato il complesso sotto la torre per creare una base da usata contro il Castello di Paludenera (vedi 0913). Attualmente, si crede che sia vuota, essendo stata sgomberata dagli avventurieri più di quarant'anni fa dopo l'uccisione di Atacyl Oathbinder, un vampiro mago non morto.
 
 **0804** **Cascate di Valstella**, Pop: 503, Elfo; Allineamento L; Governante: Re Nilal, Guerriero 4/Mago 8, L; Risorsa: Magia.
 
@@ -250,29 +250,29 @@ La cascata è una ricca fonte di viz. I maghi elfici abitano le fattorie che cir
 
 **0909** Un grande elementale dell'acqua (16 DV) abita questa zona della Baia del Fumo. Preda le navi incaute risucchiandole in un gigantesco vortice. Sul fondo del mare c'è un bacino poco profondo largo mezzo miglio disseminato dei resti delle navi e dei tesori che l'elementale dell'acqua ha trascinato giù con sè.
 
-**0912** Quest'isola è la casa di 100 uomini che pescano nell'isola circostante. L'isola è stata concessa dai signori del Castello della Palude Nera in in cambio della sorveglianza contro eventuali razziatori, in particolare i vichinghi vasani. All'estremità sud dell'isola c'è una torre di legno di 20' che può essere essere vista dalla terraferma. Al segnale di pericolo un fuoco sarà acceso e e viene trasmesso lungo una serie di torri di segnalazione al Castello della Palude Nera.
+**0912** Quest'isola è la casa di 100 uomini che pescano nell'isola circostante. L'isola è stata concessa dai signori del Castello di Paludenera in in cambio della sorveglianza contro eventuali razziatori, in particolare i vichinghi vasani. All'estremità sud dell'isola c'è una torre di legno di 20' che può essere essere vista dalla terraferma. Al segnale di pericolo un fuoco sarà acceso e e viene trasmesso lungo una serie di torri di segnalazione al Castello di Paludenera.
 
-**0913** **Castello la Palude Nera**, Pop: 1.294, Uomini; Allineamento N; Governatore: Governatore Tyrilas, Elfo, Guerriero 4/Mago 2, L; Risorsa: Mercato.
+**0913** **Castello Paludenera**, Pop: 1.294, Uomini; Allineamento N; Governatore: Governatore Tyrilas, Elfo, Guerriero 4/Mago 2, L; Risorsa: Mercato.
 
-Il Castello della Palude Nera è il più grande insediamento della regione della Palude Nera. Fu originariamente fondato dall'Impero Luminoso più di mille anni fa e serviva come porto principale per vari insediamenti e conclavi di maghi. Era governata da un governatore nominato dall'imperatore e consigliata da un consiglio di maghi e mercanti.
+Il Castello di Paludenera è il più grande insediamento della regione di Paludenera. Fu originariamente fondato dall'Impero Luminoso più di mille anni fa e serviva come porto principale per vari insediamenti e conclavi di maghi. Era governata da un governatore nominato dall'imperatore e consigliata da un consiglio di maghi e mercanti.
 
-Sopravvisse alla caduta dell'Impero Luminoso e divenne una città-stato indipendente che dominava gli insediamenti lungo la costa meridionale della Baia del Fumo. Il declino economico causò l'abbandono della maggior parte degli insediamenti circostanti un secolo dopo il crollo dell'impero. I maghi si stabilirono nel castello della Palude Nera, formando un conclave nel castello.
+Sopravvisse alla caduta dell'Impero Luminoso e divenne una città-stato indipendente che dominava gli insediamenti lungo la costa meridionale della Baia del Fumo. Il declino economico causò l'abbandono della maggior parte degli insediamenti circostanti un secolo dopo il crollo dell'impero. I maghi si stabilirono nel castello di Paludenera, formando un conclave nel castello.
 
-Hanno dominato la città-stato per diversi secoli alleandosi occasionalmente con le altre razze per sconfiggere le minacce comuni. In quel periodo la popolazione della città si stabilizzò e trovò una piccola quantità di prosperità mentre gli avventurieri entravano alla Palude Nera alla ricerca di viz.
+Hanno dominato la città-stato per diversi secoli alleandosi occasionalmente con le altre razze per sconfiggere le minacce comuni. In quel periodo la popolazione della città si stabilizzò e trovò una piccola quantità di prosperità mentre gli avventurieri entravano a Paludenera alla ricerca di viz.
 
-Un secolo fa, un ambizioso mago di nome Atacyl Oathbinder si fece strada nel controllo del consiglio. Prese il controllo assoluto controllo del Castello della Palude Nera e governò come un tiranno per diversi decenni. Si dice che l'abbia fatto attraverso uno strano elmo in grado di controllare la mente. Il suo tentativo di costruire un impero fu ostacolato. I ranger riconquistarono il castello della Palude Nera con una forza combinata di diverse
-razze ed esuli della Palude Nera.
+Un secolo fa, un ambizioso mago di nome Atacyl Oathbinder si fece strada nel controllo del consiglio. Prese il controllo assoluto controllo del Castello di Paludenera e governò come un tiranno per diversi decenni. Si dice che l'abbia fatto attraverso uno strano elmo in grado di controllare la mente. Il suo tentativo di costruire un impero fu ostacolato. I ranger riconquistarono il castello di Paludenera con una forza combinata di diverse
+razze ed esuli di Paludenera.
 
-Gli elfi presero il controllo dell'insediamento e nominarono un governatore a capo del consiglio riformato. Il Castello della Palude Nera, la sede del conclave dei maghi, fu il luogo di molti esperimenti e ricerche magiche di Atacyl. Anche dopo un secolo di governo, non tutti i livelli che Atacyl ha creato sono stati esplorati.
+Gli elfi presero il controllo dell'insediamento e nominarono un governatore a capo del consiglio riformato. Il Castello di Paludenera, la sede del conclave dei maghi, fu il luogo di molti esperimenti e ricerche magiche di Atacyl. Anche dopo un secolo di governo, non tutti i livelli che Atacyl ha creato sono stati esplorati.
 
-Quarant'anni fa, Atacyl riapparve come un mago vampiro e tentò di riprendere il castello della Palude Nera. Fu distrutto, presumibilmente, da un gruppo di avventurieri e la sua base nel vecchio Faro di Lanis (vedi 0712) fu epurata.
+Quarant'anni fa, Atacyl riapparve come un mago vampiro e tentò di riprendere il castello di Paludenera. Fu distrutto, presumibilmente, da un gruppo di avventurieri e la sua base nel vecchio Faro di Lanis (vedi 0712) fu epurata.
 
 
-## Locali del Castello della Palude Nera
+## Locali del Castello di Paludenera
 
-### 1) Castello della Palude Nera
+### 1) Castello di Paludenera
 
-Il castello è attualmente occupato dagli Elfi di Greywood. Essi mantengono il controllo esclusivo per evitare che gli ex alleati di Atacyl Oathbinder accedano ai livelli inferiori. Non hanno la manodopera per liberare i dungeon. Permetteranno ai gruppi di avventurieri che hanno la raccomandazione dei Ranger della Palude Nera o del Tempio di Thor di entrare. Gli elfi hanno un accordo con il Tempio di Thor per fornire cure a tariffe oneste per coloro che lo richiedono.
+Il castello è attualmente occupato dagli Elfi di Greywood. Essi mantengono il controllo esclusivo per evitare che gli ex alleati di Atacyl Oathbinder accedano ai livelli inferiori. Non hanno la manodopera per liberare i dungeon. Permetteranno ai gruppi di avventurieri che hanno la raccomandazione dei Ranger di Paludenera o del Tempio di Thor di entrare. Gli elfi hanno un accordo con il Tempio di Thor per fornire cure a tariffe oneste per coloro che lo richiedono.
 
 ### 2) Tempio di Thoth
 
@@ -280,15 +280,15 @@ Questo un tempo glorioso tempio al Dio della Conoscenza è caduto in rovina. La 
 
 ### 3) Tempio di Thor
 
-Questo tempio fu fondato subito dopo la caduta di Actacyl. Con i loro alleati, i Ranger della Palude Nera, hanno liberato la città dalle molte trappole magiche, dai dispositivi e dalle creature lasciate indietro. Da allora è stati il tempio più popolare, con la sala gremita nei giorni di festa. Cerca attivamente i nuovi arrivati e li incoraggia a formare gruppi di avventurieri. Li manda dagli elfi per esplorare il Castello della Palude Nera o nella campagna circostante per rispondere alle molte richieste di aiuto.
+Questo tempio fu fondato subito dopo la caduta di Actacyl. Con i loro alleati, i Ranger di Paludenera, hanno liberato la città dalle molte trappole magiche, dai dispositivi e dalle creature lasciate indietro. Da allora è stati il tempio più popolare, con la sala gremita nei giorni di festa. Cerca attivamente i nuovi arrivati e li incoraggia a formare gruppi di avventurieri. Li manda dagli elfi per esplorare il Castello di Paludenera o nella campagna circostante per rispondere alle molte richieste di aiuto.
 
 ### 4) Sala dei banchetti di Merry Legs
 
-Questa è la più grande sala banchetti del Castello della Palude Nera. A differenza del Viz Club non è esclusiva e ogni gruppo di avventurieri che è disposto a pagare la quota può utilizzare la sala. Pangando le sue tariffe è possibile fare uso della sala principale e delle molte sale da pranzo private. Mette anche a disposizione suite di 3 o 4 stanze da affittare ai gruppi che hanno bisogno di un posto dove stare. Durante le ore serali, i mercanti, carovanieri e capitani di navi cenano e bevono nella sala principale in cerca di opportunità di affari. A partire da un'ora dopo il tramonto inizia lo spettacolo, con bardi che cantano, donne che ballano e giocolieri nani.
+Questa è la più grande sala banchetti del Castello di Paludenera. A differenza del Viz Club non è esclusiva e ogni gruppo di avventurieri che è disposto a pagare la quota può utilizzare la sala. Pangando le sue tariffe è possibile fare uso della sala principale e delle molte sale da pranzo private. Mette anche a disposizione suite di 3 o 4 stanze da affittare ai gruppi che hanno bisogno di un posto dove stare. Durante le ore serali, i mercanti, carovanieri e capitani di navi cenano e bevono nella sala principale in cerca di opportunità di affari. A partire da un'ora dopo il tramonto inizia lo spettacolo, con bardi che cantano, donne che ballano e giocolieri nani.
 
 ### 5) La Locanda dello Studioso
 
-Questa è la locanda più grande della città. Ha una vasta biblioteca che è aperta agli avventori. Non ha la vastità della biblioteca del Tempio di Thoth, ma ha materiale più recente. Quasi la metà delle stanze sono affittate a ciò che rimane della Gilda dei Maghi della Palude Nera. I sopravvissuti al regno di Actayl e alla presa di potere degli elfi si sono riuniti qui nella gilda. Tuttavia, la diffidenza della città ha ostacolato il loro recupero.
+Questa è la locanda più grande della città. Ha una vasta biblioteca che è aperta agli avventori. Non ha la vastità della biblioteca del Tempio di Thoth, ma ha materiale più recente. Quasi la metà delle stanze sono affittate a ciò che rimane della Gilda dei Maghi di Paludenera. I sopravvissuti al regno di Actayl e alla presa di potere degli elfi si sono riuniti qui nella gilda. Tuttavia, la diffidenza della città ha ostacolato il loro recupero.
 
 ### 6) Il Viz Club
 
@@ -297,33 +297,33 @@ altrove. I pochi invitati pagano volentieri.
 
 ### 7) Gli abiti dei Fratelli Dax
 
-Fondato da due fratelli cinque decenni fa, questo è il principale negozio per comprare attrezzatura nella regione della Palude Nera. Importano il meglio dal Grande Regno e oltre. I loro prezzi sono del 20% più alti del normale, ma la qualità dell'equipaggiamento dà un bonus di +1 o +5% ai tiri di dado che coinvolgono il loro utilizzo. I fratelli Dax sono morti molto tempo fa e attualmente un un nutrito gruppo di cugini si occupa della gestione del negozio. Molti di loro sono all'estero o sparsi per la regione della Palude Nera alla ricerca delle ultime merci da portare al negozio.
+Fondato da due fratelli cinque decenni fa, questo è il principale negozio per comprare attrezzatura nella regione di Paludenera. Importano il meglio dal Grande Regno e oltre. I loro prezzi sono del 20% più alti del normale, ma la qualità dell'equipaggiamento dà un bonus di +1 o +5% ai tiri di dado che coinvolgono il loro utilizzo. I fratelli Dax sono morti molto tempo fa e attualmente un un nutrito gruppo di cugini si occupa della gestione del negozio. Molti di loro sono all'estero o sparsi per la regione di Paludenera alla ricerca delle ultime merci da portare al negozio.
 
 ### 8) Emporio dello Strano e dell'Arcano
 
-Non tutti i maghi della Palude Nera hanno lottato dopo la caduta di Actacyl e la presa di potere da parte degli Elfi. Thil l'Incappucciato si dimostrò un alleato degli elfi e dei Ranger della Palude Nera e divenne uno dei primi avventurieri che si arricchirono esplorando i sotterranei sotto al castello. Dopo essersi ritirato dalle avventure, fondò l'emporio per comprare e scambiare oggetti magici. Ora ha 102 anni e lascia la gestione quotidiana ai suoi apprendisti, ma continuerà a partecipare alle trattative per oggetti di alto valore.
+Non tutti i maghi di Paludenera hanno lottato dopo la caduta di Actacyl e la presa di potere da parte degli Elfi. Thil l'Incappucciato si dimostrò un alleato degli elfi e dei Ranger di Paludenera e divenne uno dei primi avventurieri che si arricchirono esplorando i sotterranei sotto al castello. Dopo essersi ritirato dalle avventure, fondò l'emporio per comprare e scambiare oggetti magici. Ora ha 102 anni e lascia la gestione quotidiana ai suoi apprendisti, ma continuerà a partecipare alle trattative per oggetti di alto valore.
 
 Gli avventurieri scopriranno che c'è l'80% di possibilità che gli oggetti magici del valore di 1.000 PO o inferiori possano essere trovati in magazzino. C'è il 20% di possibilità di trovare in magazzino oggetti fino a 5.000 PO di valore. Gli oggetti di maggior valore sono messi all'asta ogni trimestre al Viz Club. Per i non membri c'è una tassa d'ingresso di 1.000 PO.
 
 ### 9) La Compagnia di Abrams
 
-John Abrams è il magnate delle navi di maggior successo nella regione della Palude Nera e una delle principali compagnie commerciali del Mar Grigio. Possiede oltre due dozzine di navi di varie dimensioni, che vanno dai coaster a un albero caravelle in grado di attraversare le grandi distanze verso la Costa d'Oro oltre il Mare dell'Alba. Con una raccomandazione, permetterà a un avventuriero di noleggiare una delle sue navi.
+John Abrams è il magnate delle navi di maggior successo nella regione di Paludenera e una delle principali compagnie commerciali del Mar Grigio. Possiede oltre due dozzine di navi di varie dimensioni, che vanno dai coaster a un albero caravelle in grado di attraversare le grandi distanze verso la Costa d'Oro oltre il Mare dell'Alba. Con una raccomandazione, permetterà a un avventuriero di noleggiare una delle sue navi.
 
-### 10) La Compagnia degli Avventurieri della Palude Nera
+### 10) La Compagnia degli Avventurieri di Paludenera
 
-La Compagnia degli Avventurieri è la più grande compagnia di carovanieri della la Palude Nera. Organizzano carovane via terra verso Greywood, il Ducato degli Ostrobardi, nella Contea di Neovalle e nelle Terre Meridionali. Matteo Thanes è l'ultimo capitano generale a guidare la compagnia ed è sempre alla ricerca di nuovi membri da riunire come mercanti, esploratori o guardie.
+La Compagnia degli Avventurieri è la più grande compagnia di carovanieri della Paludenera. Organizzano carovane via terra verso Greywood, il Ducato degli Ostrobardi, nella Contea di Neovalle e nelle Terre Meridionali. Matteo Thanes è l'ultimo capitano generale a guidare la compagnia ed è sempre alla ricerca di nuovi membri da riunire come mercanti, esploratori o guardie.
 
 ### 11) La Compagnia degli Uomini d'Onore
 
-Il regno di Actacyl ha espropriato molti ricchi e nobili abitanti della Palude Nera. Costretti a nascondersi, hanno cercato di reagire alla tirannia di Oathbinder. Nei decenni successivi i loro discendenti divennero poco meglio di un gruppo di teppisti organizzati. Oggi, aiutano volentieri coloro che sono scontenti del governo degli elfi mentre gestiscono le loro operazioni illecite per ritorno economico.
+Il regno di Actacyl ha espropriato molti ricchi e nobili abitanti di Paludenera. Costretti a nascondersi, hanno cercato di reagire alla tirannia di Oathbinder. Nei decenni successivi i loro discendenti divennero poco meglio di un gruppo di teppisti organizzati. Oggi, aiutano volentieri coloro che sono scontenti del governo degli elfi mentre gestiscono le loro operazioni illecite per ritorno economico.
 
-{Inserisci la mappa del Castello della Palude Nera}
+{Inserisci la mappa del Castello di Paludenera}
 
-**0918** Su una scogliera, che domina il lago, si trovano i resti di un conclave di maghi fondato mille anni fa durante l'Impero Luminoso. Come gli altri, fu abbandonato poco dopo la caduta dell'impero e rimase disabitato per diversi secoli. Dopo il crollo del tentativo di Atacyl di riprendere il controllo del Castello della Palude Nera, uno dei suoi luogotenenti, Sir Autse Darkheart (Guerriero 12), ora occupa le rovine. Sir Autse fu trasformato in uno spettro e fu nominato secondo in comando di Atacyl. Le rovine ora pullulano di scheletri, zombie, wights e wraith minori sotto il comando di Darkheart.
+**0918** Su una scogliera, che domina il lago, si trovano i resti di un conclave di maghi fondato mille anni fa durante l'Impero Luminoso. Come gli altri, fu abbandonato poco dopo la caduta dell'impero e rimase disabitato per diversi secoli. Dopo il crollo del tentativo di Atacyl di riprendere il controllo del Castello di Paludenera, uno dei suoi luogotenenti, Sir Autse Darkheart (Guerriero 12), ora occupa le rovine. Sir Autse fu trasformato in uno spettro e fu nominato secondo in comando di Atacyl. Le rovine ora pullulano di scheletri, zombie, wights e wraith minori sotto il comando di Darkheart.
 
 **1002** **Mertorba**, Pop: 255, Uomo(Ostrobardo); Allineamento L; Governante: Lord Octa, Guerriero 5, L; Risorsa: Bestiame.
 
-Mertorba è stata colonizzata dagli Ostrobardi diversi secoli fa ed è è diventato un centro per l'allevamento del bestiame. Ogni autunno le mandrie vengono radunate e la maggior parte dei tori e dei vecchi viene macellata. La carne viene salata e spedita lungo il fiume Noce Rossa a Fortizio e distribuita in tutta la regione della Palude Nera. Lord Octa sta cercando altre persone per aiutare con il raduno e la guardia contro i razziatori e i mostri.
+Mertorba è stata colonizzata dagli Ostrobardi diversi secoli fa ed è è diventato un centro per l'allevamento del bestiame. Ogni autunno le mandrie vengono radunate e la maggior parte dei tori e dei vecchi viene macellata. La carne viene salata e spedita lungo il fiume Noce Rossa a Fortizio e distribuita in tutta la regione di Paludenera. Lord Octa sta cercando altre persone per aiutare con il raduno e la guardia contro i razziatori e i mostri.
 
 **1014** Questa grande isola, in mezzo alle Paludi Nere, è un
 nido per un branco di chimere (9 DV).
@@ -332,15 +332,15 @@ nido per un branco di chimere (9 DV).
 
 **1107** In questa grotta vivono 86 tritoni (1 DV). Sono governati dal re Neptar (Guerriero 4). Stanno tenendo un funerale per il figlio di Neptar che è stato ucciso da un elementale dell'acqua. (vedi 0909)
 
-**1112** Sul fondo del mare ci sono i resti affondati delle ultime navi del tesoro che salpavano dalla Palude Nera prima della caduta dell'Impero Luminoso. Oro, adamanti e casse sigillate con viz giacciono negli scafi di una dozzina di galee e sparsi sul fondo del mare. A prendere dimora tra le navi in rovina c'è un branco di diverse decine di squali (2 DV) insieme a un serpente marino gigante (12 DV).
+**1112** Sul fondo del mare ci sono i resti affondati delle ultime navi del tesoro che salpavano da Paludenera prima della caduta dell'Impero Luminoso. Oro, adamanti e casse sigillate con viz giacciono negli scafi di una dozzina di galee e sparsi sul fondo del mare. A prendere dimora tra le navi in rovina c'è un branco di diverse decine di squali (2 DV) insieme a un serpente marino gigante (12 DV).
 
 **1113** **Torre di Inuacus;** Sir Causari, Guerriero 10, L; 50 uomini.
 
-Questo torrione è un avamposto del Castello della Palude Nera e protegge le fattorie circostanti dai mostri che si muovono verso nord dalle Paludi Nere, così come i lealisti di Atacyl che si trovano a Jorvik. Sir Causari è il capo di una fazione che vuole vedere gli elfi lasciare il Castello della Palude Nera e ripristinare il dominio umano.
+Questo torrione è un avamposto del Castello di Paludenera e protegge le fattorie circostanti dai mostri che si muovono verso nord dalle Paludi Nere, così come i lealisti di Atacyl che si trovano a Jorvik. Sir Causari è il capo di una fazione che vuole vedere gli elfi lasciare il Castello di Paludenera e ripristinare il dominio umano.
 
 **1213** Sulla Collina delle Streghe si trovano le fondamenta di Ramat, un vecchio monastero thothiano in rovina, risalente ai tempi dell'Impero Luminoso. Era sede di un potente artefatto sacro noto come la Lancia di Ramat. Tutti i documenti del monastero sono andati persi dopo la ritirata dell'impero. In tempi recenti, la giovane figlia del governatore Causari di Forte Inuacus ha perso il suo cane preferito mentre faceva un picnic vicino alle rovine. Il governatore pagherà volentieri un gruppo di avventurieri per cercare il cane nelle rovine (vedi le Rovine di Ramat, pubblicato da Brave Halfling Publishing).
 
-**1214** Quest'isola ospita una congrega di stregoni. Questa congrega è stata fondata un secolo fa dopo la caduta del Castello della Palude Nera. Alcuni alcuni maghi sopravvissuti fuggirono qui con il corpo di Atacyl e supervisionarono la sua resurrezione come vampiro. Nel processo di trasformazione, Atacyl massacrò metà della congrega prima di fuggire nelle paludi. Da allora la congrega ha lottato per sopravvivere e solo pochi membri anziani sono rimasti.
+**1214** Quest'isola ospita una congrega di stregoni. Questa congrega è stata fondata un secolo fa dopo la caduta del Castello di Paludenera. Alcuni alcuni maghi sopravvissuti fuggirono qui con il corpo di Atacyl e supervisionarono la sua resurrezione come vampiro. Nel processo di trasformazione, Atacyl massacrò metà della congrega prima di fuggire nelle paludi. Da allora la congrega ha lottato per sopravvivere e solo pochi membri anziani sono rimasti.
 
 **1217** Nelle colline a nord delle ultime cime del Muroponente si trova la tana di 8 giganti delle colline (8 DV). Si divertono a razziare le fattorie intorno a Jorvik e al castello di Norbury.
 
@@ -367,7 +367,7 @@ Chiunque sopravviva all'approdo e ai successivi attacchi delle creature locali s
 
 **1316** **Jorvik**, Pop: 481, Uomo; Allineamento N; Governante: Lord Maracan, Guerriero 11, C; Risorsa: Mercato.
 
-Jorvik una volta era uno dei piccoli villaggi alleati del Castello della Palude Nera fino a un secolo fa. Quando il dominio di Atacyl fu rovesciato, molti dei suoi sostenitori fuggirono a Jorvik e fortificarono il villaggio. Essi tentarono diverse macchinazioni per riprendere il Castello della Palude Nera, ma fallirono. Il loro aiuto ad Atacyl nell'ultimo tentativo fallito (vedi 0712) li ha quasi rovinati e sono stati costretti a pagare un tributo al Castello della Palude Nera.
+Jorvik una volta era uno dei piccoli villaggi alleati del Castello di Paludenera fino a un secolo fa. Quando il dominio di Atacyl fu rovesciato, molti dei suoi sostenitori fuggirono a Jorvik e fortificarono il villaggio. Essi tentarono diverse macchinazioni per riprendere il Castello di Paludenera, ma fallirono. Il loro aiuto ad Atacyl nell'ultimo tentativo fallito (vedi 0712) li ha quasi rovinati e sono stati costretti a pagare un tributo al Castello di Paludenera.
 
 Lord Maracan è l'attuale capo e i suoi piani ruotano intorno al fingersi come esperti della regione ai nuovi esploratori del Grande Regno. Sta anche cercando di alimentare il risentimento verso gli elfi e i loro lacchè ranger.
 
@@ -383,9 +383,9 @@ Questo villaggio trae gran parte del suo sostentamento dalla pesca, ma gode anch
 
 **1518** **Castello di Norbury;** Sir Dennis Langre, Guerriero 9, L; 120 uomini.
 
-Questo è l'avamposto più a nord della provincia di Vasa del Grande Regno. Completato solo cinque anni fa, si spera che il castello servire come porta d'ingresso per i mercanti e gli esploratori del Grande Regno alla Palude Nera.
+Questo è l'avamposto più a nord della provincia di Vasa del Grande Regno. Completato solo cinque anni fa, si spera che il castello serva come porta d'ingresso per i mercanti e gli esploratori del Grande Regno a Paludenera.
 
-Sir Dennis Langre ha servito sulla frontiera con il rivale del Gran Regno, l'Impero Ocra e in alcune colonie del Nuovo Mondo. Mentre apprezza l'aiuto che Lord Maracan di Jorvik ha dato nel conoscere la Palude Nera, comincia a sospettare un secondo fine.
+Sir Dennis Langre ha servito sulla frontiera con il rivale del Gran Regno, l'Impero Ocra e in alcune colonie del Nuovo Mondo. Mentre apprezza l'aiuto che Lord Maracan di Jorvik ha dato nel conoscere Paludenera, comincia a sospettare un secondo fine.
 
 **1602** **Forte Wessex;** Bedewald the Atheling, Guerriero 6, L; 50 uomini.
 
@@ -399,11 +399,11 @@ Questo è l'avamposto più orientale degli Ostrobardi. Protegge le fattorie e i 
 
 **1709** Su quest'isola, in mezzo alla palude, c'è uno strano monolito nero in cima ad un affioramento roccioso. Ogni luna piena le tigri mannare emergono dalle paludi circostanti per compiere strani riti. Se il rito è osservato a lungo i giocatori scopriranno che tutte le razze sono tra i licantropi: elfi, uomini, halfling e nani. E anche orchi, goblin e goblin! Coloro che hanno visitato La Montagna Che Cadde (vedi 1309) vedranno che il monolito è fatto dello stesso tipo di pietra.
 
-**1807** In mezzo a questa foresta c'è una confusa rete di burroni e colline. Questa è l'attuale base della Confraternita del Corvo. Sono un gruppo che crede nella supremazia degli elfi. Hanno operato contro i ranger e le altre razze della Palude Nera per quasi duemila anni.
+**1807** In mezzo a questa foresta c'è una confusa rete di burroni e colline. Questa è l'attuale base della Confraternita del Corvo. Sono un gruppo che crede nella supremazia degli elfi. Hanno operato contro i ranger e le altre razze di Paludenera per quasi duemila anni.
 
 Attualmente ci sono 158 elfi che dirmorano insieme a 200 schiavi, per lo più orchi. Sono nominalmente guidati dall'Autarca Elana (Guerriero 4/Mago 8) che ha autorità minima sui vari comandanti e le loro truppe. Per ottenere qualcosa da fare Elana deve continuamente negoziare compromessi tra le diverse fazioni.
 
-**1816** Sul fondo della laguna ci sono i resti di una nave che è stata inviata dal rivale del Gran Regno, l'Impero Ocra, per esplorare la Palude Nera. Contiene diversi scrigni d'oro per la corruzione e preziosi forniture per equipaggiare le spedizioni.
+**1816** Sul fondo della laguna ci sono i resti di una nave che è stata inviata dal rivale del Gran Regno, l'Impero Ocra, per esplorare Paludenera. Contiene diversi scrigni d'oro per la corruzione e preziosi forniture per equipaggiare le spedizioni.
 
 **1902** Questo era un insediamento degli Ostrobardi che è stato bruciato diversi decenni fa dal drago Scytheback (vedi 2105). Era il centro che serviva diverse miniere d'argento abbandonate nelle vicinanze.
 
@@ -447,15 +447,15 @@ Questo villaggio di pescatori dei vichinghi vasani è stato fondato duecento ann
 
 **2505** **Castello Taldane**: Re Ragnar il senza anelli, Guerriero 9, N, Uomini (vasani); 200 uomini (vasani).
 
-Il nonno di re Ragnar fu espropriato dalla conquista di Vasa da parte il Grande Regno. Egli fuggì con i beni che poteva trasportare sulle sue e portò con sé il maggior numero possibile di membri dei suoi clan e di quelli alleati. che poteva. Nei decenni successivi i piccoli re di Taldane sognarono di riconquistare la loro casa, ma è stata una lotta per sopravvivere alla Palude Nera, figuriamoci ricostruire abbastanza truppe per organizzare una grande spedizione militare.
+Il nonno di re Ragnar fu espropriato dalla conquista di Vasa da parte il Grande Regno. Egli fuggì con i beni che poteva trasportare sulle sue e portò con sé il maggior numero possibile di membri dei suoi clan e di quelli alleati. che poteva. Nei decenni successivi i piccoli re di Taldane sognarono di riconquistare la loro casa, ma è stata una lotta per sopravvivere a Paludenera, figuriamoci ricostruire abbastanza truppe per organizzare una grande spedizione militare.
 
-Re Ragnar è conosciuto come il Senza Anello dopo aver perso il suo anello con sigillo reale quando il suo dito fu tagliato durante un'incursione al castello della Palude Nera. Questo gli ha portato grande vergogna e ora passa le sue giornate in un torpore ubriaco picchiando i suoi cani. Si dice che si trovi in una cassaforte di Castello della Palude Nera.
+Re Ragnar è conosciuto come il Senza Anello dopo aver perso il suo anello con sigillo reale quando il suo dito fu tagliato durante un'incursione al castello di Paludenera. Questo gli ha portato grande vergogna e ora passa le sue giornate in un torpore ubriaco picchiando i suoi cani. Si dice che si trovi in una cassaforte di Castello di Paludenera.
 
 **2509** **Gamla**, Pop: 405, Uomo (vasani); Allineamento N; Governante: Capo Yngvar, Guerriero 12, N; Risorsa: Fattoria.
 
 Protetta dalla palude a ovest, Gamla ha visto una piccola misura di prosperità grazie alla terra fertile. Il capo Yngvar critica re Ragnar (vedi 2505) in ogni occasione. Yngvar sta valutando se sostenerlo o se sollevare una ribellione per rovesciarlo.
 
-**2618** Una nave dell'Impero Ocra sta navigando verso la Palude Nera alla ricerca della spedizione perduta inviata qui cinque anni fa. Essa è comandata da Lord Travvarn (Guerriero 7, L), un potente mirmidone della Chiesa di Sarrath, il Dio Drago. Egli è assistito dall'Arconte Devers (Chierico 5, L), che impone una rigida disciplina tra l'equipaggio e i guerrieri della nave.
+**2618** Una nave dell'Impero Ocra sta navigando verso Paludenera alla ricerca della spedizione perduta inviata qui cinque anni fa. Essa è comandata da Lord Travvarn (Guerriero 7, L), un potente mirmidone della Chiesa di Sarrath, il Dio Drago. Egli è assistito dall'Arconte Devers (Chierico 5, L), che impone una rigida disciplina tra l'equipaggio e i guerrieri della nave.
 
 **2704** **Daretop**, Pop: 415, Uomo (vasani); Allineamento N; Governante: Capo Kalfvald, Guerriero 8, N; Risorsa: Fattoria.
 
