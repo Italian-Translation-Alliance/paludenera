@@ -52,11 +52,11 @@ Il viz è una sostanza magica che assume molte forme. Può essere una fiaschetta
 
 Il viz permette a un mago di lanciare incantesimi senza perderne la memoria. Il viz viene consumato nel processo. Un viz per un incantesimo di primo livello, due viz per un incantesimo di secondo livello, tre per un incantesimo di terzo livello e così via. Un viz vale 100 PO per la creazione di un oggetto magico. L'Arbitro può usare i viz come tesoro utilizzabile per la creazione di un oggetto magico invece di dare più pezzi d'oro.
 
-### Il selvaggio nord
+### Il selvaggio Nord
 
-A nord di Paludenera si trova il Selvaggio Nord, una fredda terra di abeti scuri e taiga. Il possente fiume Belaya scorre nel cuore di questa terra. Sparse per il selvaggio Nord ci sono le città-stato umane di Rurasin.
+A nord di Paludenera si trova il Selvaggio Nord, una fredda terra di abeti scuri e taiga. Il possente fiume Belaya scorre nel cuore di questa terra. Sparse per il Selvaggio Nord ci sono le città-stato umane di Rurasin.
 
-### Terra del Sud
+### Terre Meridionali
 
 Confinante con Paludenera a sud c'è la regione conosciuta come Terre Meridionali. Si trova alla frontiera della provincia di Vasa del Grande Regno ed è stata recentemente aperta all'insediamento. Il Regno di Bolzak nelle Montagne Bianche è il luogo di nascita di molti nani di Paludenera.
 
@@ -68,13 +68,13 @@ Ci sono diverse possibilità di inserire Paludenera nella vostra campagna. La pr
 
 Gli insediamenti delle quattro razze (uomini, elfi, nani, halfling) sono lontane colonie di patrie razziali. La lontananza di Paludenera significa che questi insediamenti sono effettivamente indipendenti.
 
-Ci sono quattro aree distinte di uomini a Paludenera. Gli Ostrobardi sono nuovi alla civiltà, essendosi affrancati dei loro modi barbari nell'ultimo secolo. Ci sono gli uomini lungo la costa meridionale della Baia del Fumo che va dal Castello di Paludenera a ovest fino a Jorvik a est. Essi sono un residuo sopravvissuto dell'Impero Luminoso. I vichinghi Vasani hanno quattro insediamenti lungo il bordo orientale di Paludenera. Sono arrivati qui dopo aver perso gran parte della loro patria a favore del Grande Regno. Infine, c'è il Grande Regno che sta iniziando ad espandersi a Paludenera.
+Ci sono quattro aree distinte di uomini a Paludenera. Gli Ostrobardi sono nuovi alla civiltà, essendosi affrancati dei loro modi barbari nell'ultimo secolo. Ci sono gli uomini lungo la costa meridionale della Baia del Fumo che va dal Castello di Paludenera a ovest fino a Jorvik a est. Essi sono un residuo sopravvissuto dell'Impero Luminoso. I vichinghi vasani hanno quattro insediamenti lungo il bordo orientale di Paludenera. Sono arrivati qui dopo aver perso gran parte della loro patria a favore del Grande Regno. Infine, c'è il Grande Regno che sta iniziando ad espandersi a Paludenera.
 
 Vengono fatti diversi riferimenti al regno nanico di Bolzak che si trova che si trova nelle Terre Meridionali. Questo può essere ignorato o sostituito con un adeguato regno nanico a vostra scelta. Vecchia Tenuta è una base dei nani per esplorare Paludenera quindi non è fondamentale avere un regno immediatamente a sud.
 
 I Ranger di Paludenera sono concepiti come un'organizzazione indigena della zona. Se un Arbitro vuole incorporare la classe Ranger questo sarebbe un punto di partenza naturale.
 
-Per la Casa del Corvo, un Arbitro potrebbe usare gli elfi oscuri di altri giochi di ruolo fantasy. Come presentato in Paludenera, sono un gruppo che crede che gli elfi debbano governare e schiavizzare le altre razze. Questo è considerato ripugnante per le culture di Paludenera.
+Per la Casa del Corvo, un Arbitro potrebbe usare gli elfi oscuri di altri giochi di ruolo fantasy. Come presentato in Paludenera, è un gruppo che crede che gli elfi debbano governare e schiavizzare le altre razze. Questo è considerato ripugnante per le culture di Paludenera.
 
 ## Geografia
 
@@ -101,11 +101,11 @@ Il fiume Lanis scorre a nord delle Terre Meridionali ed è largo tre miglia quan
 
 Uno sperone delle Montagne Bianche che collegano un centinaio di miglia a nord-ovest. Sono conosciute per le numerose tribù di goblin che abitano le valli di montagna poco esplorate.
 
-### Fiume Noce Rossa
+### Fiume Nocerossa
 
 Questo fiume prende il suo nome dal numero di boschetti di noce rossa che crescono lungo le sue rive. La noce rossa è considerata una gustosa prelibatezza dagli abitanti e dagli animali di Paludenera. Ogni autunno, la superficie del fiume è coperta da di noci rosse galleggianti che cadono dagli alberi. Questo ha lo sfortunato effetto di attrarre ippogrifi e grifoni che scendono in picchiata e le raccolgono dall'acqua. Non disdegnano di dare un morso più sostanzioso a un incauto viaggiatore sul fiume.
 
-### L'isola Arenaria 
+### Isola di Arenaria 
 
 Il lato sottovento (di fronte a Baia Protetta) è una massa di arenaria che è stata pesantemente crepata dallo schianto della Montagna Che Cadde. Ci sono numerosi burroni, canaloni e voragini per tutta la lunghezza dell'isola. Questo è uno dei luoghi preferiti dai vichinghi e dai pirati per nascondere il loro
 tesoro. Sopravento, si riempie gradualmente di sabbia fino a raggiungere le dune della spiaggia.
@@ -124,7 +124,7 @@ L'impatto della Montagna Che Cadde ha fratturato questa regione formando le le p
 
 ### Le Colline Cremisi
 
-Nel corso dei secoli, numerose tribù di orchi hanno conquistato e sono state conquistate tra queste colline. Il loro continuo conflitto ha fatto sì che questa regione fosse conosciuta come le Colline Cremisi. Le due tribù principali sono i Mangiapipistrelli (1911) e i Frantumasangue (2207), ma ci sono diversi clan di orchi più piccoli e famiglie che si nascondono e cacciano sulle colline.
+Nel corso dei secoli, numerose tribù di orchi hanno vinto e sono state sconfitte tra queste colline. Il loro continuo conflitto ha fatto sì che questa regione fosse conosciuta come le Colline Cremisi. Le due tribù principali sono i Mangiapipistrelli (1911) e i Frantumasangue (2207), ma ci sono diversi clan di orchi più piccoli e famiglie che si nascondono e cacciano sulle colline.
 
 ### Il Mare Grigio
 
@@ -179,13 +179,13 @@ Più a sud, il Muroponente forma il confine occidentale della Provincia di Vasa 
 
 ## Località
 
-**0105** Queste sono le rovine di Daur Anthar, la tenuta del famoso maestro di ferro nanico, Gamli Norreshield. È qui che ha trovato una vena di metallo ricco di viz e ne studiò l'uso nella forgiatura di armi e armature. Quando la tenuta fu abbandonata diverse centinaia di anni fa, un elementale della terra (DV 12) rimase a guardia delle rovine.
+**0105** Queste sono le rovine di Daur Anthar, la tenuta del famoso maestro di ferro nanico, Gamli Norreshield. È qui che ha trovato una vena di metallo ricco di viz e ne studiò l'uso nella forgiatura di armi e armature. Quando la tenuta fu abbandonata diverse centinaia di anni fa, un elementale della terra (12 DV) rimase a guardia delle rovine.
 
 **0107** Una banda di briganti vuole vendicarsi dei Ranger di Paludenera e stanno marciando verso il castello di Quercianera. Sigrun il Senz'ossa (Guerriero 9), due capitani (Guerriero 6,5) e tre tenenti (Guerriero 4) guidano 115 briganti.
 
-**0211** Vedendo gli halfling di Neovallata come una facile preda, Re Graptar lo Stupendo (trattare come un hobgoblin e brandire un martello da guerra +1) ha spostato 150 goblin nelle Montagne Pendar dove stabilirono la loro nuova base. Attorno al re ci sono dodici guardie (trattare come hobgoblin) che proteggono Graptar da eventuali usurpatori.
+**0211** Vedendo gli halfling di Neovallata come una facile preda, Re Graptar lo Stupendo (trattare come un hobgoblin che brandisce un martello da guerra +1) ha trasferito 150 goblin sulle Montagne Pendar dove hanno stabilito la loro nuova base. Attorno al re ci sono dodici guardie (trattare come hobgoblin) che proteggono Graptar da eventuali usurpatori.
 
-**0214** Una madre drago nero (vecchia, DV 8) e suo figlio (giovane, DV 7) hanno massacrato un branco di cervi e sono in un prato a consumare le carcasse.
+**0214** Una madre drago nero (vecchia, 8 DV) e suo figlio (giovane, 7 DV) hanno massacrato un branco di cervi e sono in un prato a consumare le carcasse.
 
 **0217 Vecchia Tenuta**, Pop: 342, Nano; Allineamento L; Governante: Lord Mazardan, Guerriero 6, L, Nano; Risorsa: Mercato.
 
@@ -194,15 +194,15 @@ Vecchia Tenuta è l'avamposto più settentrionale del regno nanico di Bolzak. È
 Lord Mazardan è stato uno degli esploratori di maggior successo e nominato Lord di Vecchia Tenuta due decenni fa. È anche il capitano supremo della Compagnia degli Avventurieri del Nord.  Un'associazione di esploratori alla ricerca di fonti di vita. Ogni anno ospita un grande banchetto nella sala della compagnia
 dove i membri e i loro amici mangiano e raccontano le loro scoperte.
 
-**0302** L'interno di questa ansa del fiume Noce Rossa è pieno di tane di serpenti giganti. Ogni 100 metri c'è una probabilità di 3 su 6 di incontrare un buco in una tana (1-4) o un serpente gigante (DV 2)(5-6).
+**0302** L'interno di questa ansa del fiume Nocerossa è pieno di tane di serpenti giganti. Ogni 100 metri c'è una probabilità di 3 su 6 di incontrare un buco in una tana (1-4) o un serpente gigante (2 DV)(5-6).
 
-**0309** Questo torrione fatiscente di un mago risale a mille anni fa, ai tempi dell'Impero Luminoso. Un esperimento andato storto ha lasciato il torrione infestatoa da numerose gelatine ocra (DV 5), tra cui un grande sanguinaccio (DV 10, 60 hp) nella vecchia sala grande.
+**0309** Questo torrione fatiscente di un mago risale a mille anni fa, ai tempi dell'Impero Luminoso. Un esperimento andato storto ha lasciato il torrione infestatoa da numerose gelatine ocra (5 DV), tra cui un grande sanguinaccio (10 DV, 60 PF) nella vecchia sala grande.
 
-**0318** Un branco di cinghiali dalla tempra malvagia (DV 3) si aggira sulle pendici delle delle Montagne Bianche. Anche i cacciatori di Vecchia Tenuta (vedi 0217) evitano questa valle. C'è una probabilità su 4 di incontrare 4d4 cinghiali all'ora mentre si è nella regione.
+**0318** Un branco di cinghiali dalla tempra malvagia (3 DV) si aggira sulle pendici delle delle Montagne Bianche. Anche i cacciatori di Vecchia Tenuta (si veda 0217) evitano questa valle. C'è una probabilità su 4 di incontrare 4d4 cinghiali all'ora mentre si è nella regione.
 
 **0407** **Castello Quercianera**; Sineriano, Guerriero 4/Mago 6 L, Elfo; 50 elfi, 60 uomini, 40 nani, 20 halfling.
 
-Questo castello è il quartier generale dei Ranger di Paludenera, un'organizzazione dedita a preservare la pace tra le razze e a mantenere Paludenera libera dalle depredazioni dei mostri. Essi considerano la Fratellanza del Corvo il loro nemico mortale (vedi 1807). Il Tempio di Thor al Castello di Paludenera è un alleato soprattutto quando sono coinvolti dei mostri.
+Questo castello è il quartier generale dei Ranger di Paludenera, un'organizzazione dedita a preservare la pace tra le razze e a mantenere Paludenera libera dalle depredazioni dei mostri. Essi considerano la Fratellanza del Corvo il loro nemico mortale (si veda 1807). Il Tempio di Thor al Castello di Paludenera è un alleato soprattutto quando sono coinvolti dei mostri.
 
 I Ranger di Paludenera sono stati fondati dal leggendario Geran Quercianera quindici secoli fa durante l'invasione dei barbari Ostrobardi. Geran Quercianera fu determinante nel ristabilire la pace. Anche se non riuscì di unirli politicamente, una tradizione di assistenza reciproca prese piede tra le razze.
 
@@ -212,16 +212,16 @@ Il Gran Capitano Sinerian è stato il capo per oltre un secolo e si aspetta di s
 
 **0409 Stranolmo**, Pop: 292, Halfling; Allineamento L; Governante: Sindaco Holbein Redleaf, 0-lvl, L; Risorsa: Fattoria.
 
-Stranolmo è un villaggio di halfling che circonda una grande collina a sud di dell'Acqua di Olmi. La regione intorno al villaggio ha un terreno ricco per l'agricoltura e gli halfling forniscono gran parte del cibo necessario al Castello Quercianera (vedi 0407).
+Stranolmo è un villaggio di halfling che circonda una grande collina a sud di dell'Acqua di Olmi. La regione intorno al villaggio ha un terreno ricco per l'agricoltura e gli halfling forniscono gran parte del cibo necessario al Castello Quercianera (si veda 0407).
 
-Il sindaco Holbein, insieme al suo conestabile, mantiene la pace, ma lotta quando un mostro occasionale emerge dalle rovine del torrione del mago (vedi 0309) a nord-ovest. Oltre ad essere sindaco, Holbein è un abile pittore e i suoi lavori sono stati commissionati più volte dai ricchi e nobili di Paludenera.
+Il sindaco Holbein, insieme al suo conestabile, mantiene la pace, ma lotta quando un mostro occasionale emerge dalle rovine del torrione del mago (si veda 0309) a nord-ovest. Oltre ad essere sindaco, Holbein è un abile pittore e i suoi lavori sono stati commissionati più volte dai ricchi e nobili di Paludenera.
 
 **0413** Una tribù di 190 coboldi domina la foresta a nord del lago.
 Il Gran Capo Cruk governa i coboldi con l'assistenza di altri sei capi della tribù (trattati come goblin). Egli guida anche i coboldi nel culto di una strana spada luminosa della legge in un boschetto aperto al centro della foresta. Quando i coboldi arrivarono per la prima volta, un secolo fa, cercarono di prendere la spada, ma essa uccideva chiunque la toccasse.
 
-**0415** Queste isole sono conosciute come le tre sorelle. Ogni isola è  la dimora di una nixie (DV 1, fascino) e le tre sono sorelle rivali. Usano la loro abilità di Ammaliare le Persone per competere tra loro per i prigionieri più belli. Non disdegnano di cospirare con gli estranei se questo significa che una delle sorelle si vede negato il suo premio.
+**0415** Queste isole sono conosciute come le tre sorelle. Ogni isola è  la dimora di una nixie (1 DV, fascino) e le tre sono sorelle rivali. Usano la loro abilità di Ammaliare le Persone per competere tra loro per i prigionieri più belli. Non disdegnano di cospirare con gli estranei se questo significa che una delle sorelle si vede negato il suo premio.
 
-**0515** Questa è la dimora del Re del Lago (DV 5, fascino) e la sua corte di 80 nixie (DV 1, fascino). Egli libererà chiunque venga catturato se rapiranno le sue litigiose figlie e le riporteranno a casa sua (vedi 0515).
+**0515** Questa è la dimora del Re del Lago (5 DV, fascino) e la sua corte di 80 nixie (1 DV, fascino). Egli libererà chiunque venga catturato se rapiranno le sue litigiose figlie e le riporteranno a casa sua (si veda 0515).
 
 **0605** Un debole muro esiste tra questo mondo e gli altri piani di esistenza nella foresta elfica. Qui il tessuto della realtà è stato lacerato, 48 elfi stanno combattendo contro 12 demoni del fuoco (trattare come elementali del fuoco da 8 DV). Diverse decine di altri elfi circondano il conflitto cercando di contenere la fiamma accesa dal combattimento.
 
@@ -235,9 +235,9 @@ Verdello è il principale insediamento degli halfling di Neovallata e un importa
 
 **0616** Il Bruciacollina scorre attraverso una gola profonda 50' per oltre mezzo miglio. Durante l'Impero Luminoso, i maghi stabilirono qui un conclave per raccogliere il viz che si trovava nelle scogliere della gola. Due secoli dopo la caduta dell'impero, il conclave fu abbandonato. Le scogliere sono scavate dai diversi livelli del conclave. Molti dei livelli si estendono entrambi i lati della gola con ponti che li collegano. Non tutti sono sicuri.
 
-**0702** Sei troll (DV 6, rigenerazione) banchettano con i cadaveri di un mercante ucciso di Fortizio (vedi 1305). Il fumo del loro fuoco di cottura può essere visto da due miglia di distanza.
+**0702** Sei troll (6 DV, rigenerazione) banchettano con i cadaveri di un mercante ucciso di Fortizio (si veda 1305). Il fumo del loro fuoco di cottura può essere visto da due miglia di distanza.
 
-**0712** Questa torre in rovina una volta era usata come faro. Guidava le navi verso la foce del fiume Lanis. Costruita durante l'Impero Luminoso fu abbandonata diversi secoli fa. Da allora, una successione di signori del caos hanno ampliato il complesso sotto la torre per creare una base da usata contro il Castello di Paludenera (vedi 0913). Attualmente, si crede che sia vuota, essendo stata sgomberata dagli avventurieri più di quarant'anni fa dopo l'uccisione di Atacyl Oathbinder, un vampiro mago non morto.
+**0712** Questa torre in rovina una volta era usata come faro. Guidava le navi verso la foce del fiume Lanis. Costruita durante l'Impero Luminoso fu abbandonata diversi secoli fa. Da allora, una successione di signori del caos hanno ampliato il complesso sotto la torre per creare una base da usata contro il Castello di Paludenera (si veda 0913). Attualmente, si crede che sia vuota, essendo stata sgomberata dagli avventurieri più di quarant'anni fa dopo l'uccisione di Atacyl Oathbinder, un vampiro mago non morto.
 
 **0804** **Cascate di Valstella**, Pop: 503, Elfo; Allineamento L; Governante: Re Nilal, Guerriero 4/Mago 8, L; Risorsa: Magia.
 
@@ -265,7 +265,7 @@ razze ed esuli di Paludenera.
 
 Gli elfi presero il controllo dell'insediamento e nominarono un governatore a capo del consiglio riformato. Il Castello di Paludenera, la sede del conclave dei maghi, fu il luogo di molti esperimenti e ricerche magiche di Atacyl. Anche dopo un secolo di governo, non tutti i livelli che Atacyl ha creato sono stati esplorati.
 
-Quarant'anni fa, Atacyl riapparve come un mago vampiro e tentò di riprendere il castello di Paludenera. Fu distrutto, presumibilmente, da un gruppo di avventurieri e la sua base nel vecchio Faro di Lanis (vedi 0712) fu epurata.
+Quarant'anni fa, Atacyl riapparve come un mago vampiro e tentò di riprendere il castello di Paludenera. Fu distrutto, presumibilmente, da un gruppo di avventurieri e la sua base nel vecchio Faro di Lanis (si veda 0712) fu epurata.
 
 
 ## Locali del Castello di Paludenera
@@ -282,7 +282,7 @@ Questo un tempo glorioso tempio al Dio della Conoscenza è caduto in rovina. La 
 
 Questo tempio fu fondato subito dopo la caduta di Actacyl. Con i loro alleati, i Ranger di Paludenera, hanno liberato la città dalle molte trappole magiche, dai dispositivi e dalle creature lasciate indietro. Da allora è stati il tempio più popolare, con la sala gremita nei giorni di festa. Cerca attivamente i nuovi arrivati e li incoraggia a formare gruppi di avventurieri. Li manda dagli elfi per esplorare il Castello di Paludenera o nella campagna circostante per rispondere alle molte richieste di aiuto.
 
-### 4) Sala dei banchetti di Merry Legs
+### 4) Sala dei banchetti delle Gamballegre
 
 Questa è la più grande sala banchetti del Castello di Paludenera. A differenza del Viz Club non è esclusiva e ogni gruppo di avventurieri che è disposto a pagare la quota può utilizzare la sala. Pangando le sue tariffe è possibile fare uso della sala principale e delle molte sale da pranzo private. Mette anche a disposizione suite di 3 o 4 stanze da affittare ai gruppi che hanno bisogno di un posto dove stare. Durante le ore serali, i mercanti, carovanieri e capitani di navi cenano e bevono nella sala principale in cerca di opportunità di affari. A partire da un'ora dopo il tramonto inizia lo spettacolo, con bardi che cantano, donne che ballano e giocolieri nani.
 
@@ -323,14 +323,14 @@ Il regno di Actacyl ha espropriato molti ricchi e nobili abitanti di Paludenera.
 
 **1002** **Mertorba**, Pop: 255, Uomo(Ostrobardo); Allineamento L; Governante: Lord Octa, Guerriero 5, L; Risorsa: Bestiame.
 
-Mertorba è stata colonizzata dagli Ostrobardi diversi secoli fa ed è è diventato un centro per l'allevamento del bestiame. Ogni autunno le mandrie vengono radunate e la maggior parte dei tori e dei vecchi viene macellata. La carne viene salata e spedita lungo il fiume Noce Rossa a Fortizio e distribuita in tutta la regione di Paludenera. Lord Octa sta cercando altre persone per aiutare con il raduno e la guardia contro i razziatori e i mostri.
+Mertorba è stata colonizzata dagli Ostrobardi diversi secoli fa ed è è diventato un centro per l'allevamento del bestiame. Ogni autunno le mandrie vengono radunate e la maggior parte dei tori e dei vecchi viene macellata. La carne viene salata e spedita lungo il fiume Nocerossa a Fortizio e distribuita in tutta la regione di Paludenera. Lord Octa sta cercando altre persone per aiutare con il raduno e la guardia contro i razziatori e i mostri.
 
 **1014** Questa grande isola, in mezzo alle Paludi Nere, è un
 nido per un branco di chimere (9 DV).
 
-**1103** Sedici centauri (4 DV) stanno inseguendo una mandria di bestiame che hanno intenzione di rubare. A un miglio di distanza due pastori (Guerriero 1) stanno cavalcando al pieno galoppo verso Mertorba (vedi 1002) per chiedere aiuto.
+**1103** Sedici centauri (4 DV) stanno inseguendo una mandria di bestiame che hanno intenzione di rubare. A un miglio di distanza due pastori (Guerriero 1) stanno cavalcando al pieno galoppo verso Mertorba (si veda 1002) per chiedere aiuto.
 
-**1107** In questa grotta vivono 86 tritoni (1 DV). Sono governati dal re Neptar (Guerriero 4). Stanno tenendo un funerale per il figlio di Neptar che è stato ucciso da un elementale dell'acqua. (vedi 0909)
+**1107** In questa grotta vivono 86 tritoni (1 DV). Sono governati dal re Neptar (Guerriero 4). Stanno tenendo un funerale per il figlio di Neptar che è stato ucciso da un elementale dell'acqua. (si veda 0909)
 
 **1112** Sul fondo del mare ci sono i resti affondati delle ultime navi del tesoro che salpavano da Paludenera prima della caduta dell'Impero Luminoso. Oro, adamanti e casse sigillate con viz giacciono negli scafi di una dozzina di galee e sparsi sul fondo del mare. A prendere dimora tra le navi in rovina c'è un branco di diverse decine di squali (2 DV) insieme a un serpente marino gigante (12 DV).
 
@@ -338,7 +338,7 @@ nido per un branco di chimere (9 DV).
 
 Questo torrione è un avamposto del Castello di Paludenera e protegge le fattorie circostanti dai mostri che si muovono verso nord dalle Paludi Nere, così come i lealisti di Atacyl che si trovano a Jorvik. Sir Causari è il capo di una fazione che vuole vedere gli elfi lasciare il Castello di Paludenera e ripristinare il dominio umano.
 
-**1213** Sulla Collina delle Streghe si trovano le fondamenta di Ramat, un vecchio monastero thothiano in rovina, risalente ai tempi dell'Impero Luminoso. Era sede di un potente artefatto sacro noto come la Lancia di Ramat. Tutti i documenti del monastero sono andati persi dopo la ritirata dell'impero. In tempi recenti, la giovane figlia del governatore Causari di Forte Inuacus ha perso il suo cane preferito mentre faceva un picnic vicino alle rovine. Il governatore pagherà volentieri un gruppo di avventurieri per cercare il cane nelle rovine (vedi le Rovine di Ramat, pubblicato da Brave Halfling Publishing).
+**1213** Sulla Collina delle Streghe si trovano le fondamenta di Ramat, un vecchio monastero thothiano in rovina, risalente ai tempi dell'Impero Luminoso. Era sede di un potente artefatto sacro noto come la Lancia di Ramat. Tutti i documenti del monastero sono andati persi dopo la ritirata dell'impero. In tempi recenti, la giovane figlia del governatore Causari di Forte Inuacus ha perso il suo cane preferito mentre faceva un picnic vicino alle rovine. Il governatore pagherà volentieri un gruppo di avventurieri per cercare il cane nelle rovine (si veda le Rovine di Ramat, pubblicato da Brave Halfling Publishing).
 
 **1214** Quest'isola ospita una congrega di stregoni. Questa congrega è stata fondata un secolo fa dopo la caduta del Castello di Paludenera. Alcuni alcuni maghi sopravvissuti fuggirono qui con il corpo di Atacyl e supervisionarono la sua resurrezione come vampiro. Nel processo di trasformazione, Atacyl massacrò metà della congrega prima di fuggire nelle paludi. Da allora la congrega ha lottato per sopravvivere e solo pochi membri anziani sono rimasti.
 
@@ -354,9 +354,9 @@ Fortizio è il più grande insediamento degli Ostrobardi e la sede dei loro dei 
 
 Il duca Caedwin è noto per la sua grande pancia e per i suoi banchetti sfrenati. Ha agenti in tutta la città alla ricerca di nuovi arrivi per fornire un banchetto con i racconti delle loro imprese. Il duca non accetta un no come risposta.
 
-**1306** Un piccolo gruppo di cinque isole si estende a sud-ovest di Fortizio (vedi 1305). Sono la casa di dozzine di clan di pescatori che raccolgono i frutti del Mare Grigio. Molti dei pescatori sono membri di clan di contrabbandieri specializzati nel trasportare merci dentro e fuori Fortizio, eludendo i tassatori del duca.
+**1306** Un piccolo gruppo di cinque isole si estende a sud-ovest di Fortizio (si veda 1305). Sono la casa di dozzine di clan di pescatori che raccolgono i frutti del Mare Grigio. Molti dei pescatori sono membri di clan di contrabbandieri specializzati nel trasportare merci dentro e fuori Fortizio, eludendo i tassatori del duca.
 
-**1307** Quest'isola boscosa giace incontaminata nel mezzo della Baia del Fumo. La maga Naomi (Mago 9) si assicura che rimanga tale. Si affida all'aiuto di alcune driadi (DV 2, fascino). Un tempo era l'amante del Mago dell'Isola, (vedi 1309) ma lui la respinse diversi secoli fa. A causa di questo ogni intruso maschio rimarrà ospite delle driadi per molto tempo. Le femmine sperimenteranno solo
+**1307** Quest'isola boscosa giace incontaminata nel mezzo della Baia del Fumo. La maga Naomi (Mago 9) si assicura che rimanga tale. Si affida all'aiuto di alcune driadi (2 DV, fascino). Un tempo era l'amante del Mago dell'Isola, (si veda 1309) ma lui la respinse diversi secoli fa. A causa di questo ogni intruso maschio rimarrà ospite delle driadi per molto tempo. Le femmine sperimenteranno solo
 perdita di memoria e vanno alla deriva in mare.
 
 **1309** L'isola più grande è tutto ciò che rimane della Montagna Che Cadde. È incredibilmente ricca di viz anche se la mancanza di una spiaggia e i ripidi pendii la rendono difficile da aggirare. Chiunque sia riuscito a sfidare l'isola non solo deve affrontare l'ira del Mago dell'Isola ma anche i numerosi volatili che dimorano intorno ai pendii. Sono stati segnalati gargoyle, viverne, grifoni, ippogrifi, pegasi, chimere, manticore e persino roc che nidificano vicino alla cima.
@@ -367,7 +367,7 @@ Chiunque sopravviva all'approdo e ai successivi attacchi delle creature locali s
 
 **1316** **Jorvik**, Pop: 481, Uomo; Allineamento N; Governante: Lord Maracan, Guerriero 11, C; Risorsa: Mercato.
 
-Jorvik una volta era uno dei piccoli villaggi alleati del Castello di Paludenera fino a un secolo fa. Quando il dominio di Atacyl fu rovesciato, molti dei suoi sostenitori fuggirono a Jorvik e fortificarono il villaggio. Essi tentarono diverse macchinazioni per riprendere il Castello di Paludenera, ma fallirono. Il loro aiuto ad Atacyl nell'ultimo tentativo fallito (vedi 0712) li ha quasi rovinati e sono stati costretti a pagare un tributo al Castello di Paludenera.
+Jorvik una volta era uno dei piccoli villaggi alleati del Castello di Paludenera fino a un secolo fa. Quando il dominio di Atacyl fu rovesciato, molti dei suoi sostenitori fuggirono a Jorvik e fortificarono il villaggio. Essi tentarono diverse macchinazioni per riprendere il Castello di Paludenera, ma fallirono. Il loro aiuto ad Atacyl nell'ultimo tentativo fallito (si veda 0712) li ha quasi rovinati e sono stati costretti a pagare un tributo al Castello di Paludenera.
 
 Lord Maracan è l'attuale capo e i suoi piani ruotano intorno al fingersi come esperti della regione ai nuovi esploratori del Grande Regno. Sta anche cercando di alimentare il risentimento verso gli elfi e i loro lacchè ranger.
 
@@ -393,11 +393,11 @@ Questo è l'avamposto più orientale degli Ostrobardi. Protegge le fattorie e i 
 
 **1609** La terra tra la costa e la palude è occupata da 325 coboldi (½ DV) della tribù degli Mangiaconchiglia. Sono divisi in sei clan in faida che combattono continuamente tra di loro. Si uniranno solo si uniscono solo quando gli stranieri li invadono. Usano la loro conoscenza superiore del terreno per rendere la vita miserabile agli invasori.
 
-**1701** In una grotta sotto un affioramento roccioso, un'idra a otto teste (8 DV) ha preso dimora. Bedewald l'Atheling (vedi 1602) ha una pattuglia che controlla periodicamente che non si sia spostata più a sud.
+**1701** In una grotta sotto un affioramento roccioso, un'idra a otto teste (8 DV) ha preso dimora. Bedewald l'Atheling (si veda 1602) ha una pattuglia che controlla periodicamente che non si sia spostata più a sud.
 
-**1706** Quattro roc (6 DV) dalla montagna che cadde (vedi 1309) sono atterrati e stanno banchettando con i resti di un drago rosso sub-adulto (vedi 2105). A trecento metri a est ci sono i resti carbonizzati di un quinto roc.
+**1706** Quattro roc (6 DV) dalla montagna che cadde (si veda 1309) sono atterrati e stanno banchettando con i resti di un drago rosso sub-adulto (si veda 2105). A trecento metri a est ci sono i resti carbonizzati di un quinto roc.
 
-**1709** Su quest'isola, in mezzo alla palude, c'è uno strano monolito nero in cima ad un affioramento roccioso. Ogni luna piena le tigri mannare emergono dalle paludi circostanti per compiere strani riti. Se il rito è osservato a lungo i giocatori scopriranno che tutte le razze sono tra i licantropi: elfi, uomini, halfling e nani. E anche orchi, goblin e goblin! Coloro che hanno visitato La Montagna Che Cadde (vedi 1309) vedranno che il monolito è fatto dello stesso tipo di pietra.
+**1709** Su quest'isola, in mezzo alla palude, c'è uno strano monolito nero in cima ad un affioramento roccioso. Ogni luna piena le tigri mannare emergono dalle paludi circostanti per compiere strani riti. Se il rito è osservato a lungo i giocatori scopriranno che tutte le razze sono tra i licantropi: elfi, uomini, halfling e nani. E anche orchi, goblin e goblin! Coloro che hanno visitato La Montagna Che Cadde (si veda 1309) vedranno che il monolito è fatto dello stesso tipo di pietra.
 
 **1807** In mezzo a questa foresta c'è una confusa rete di burroni e colline. Questa è l'attuale base della Confraternita del Corvo. Sono un gruppo che crede nella supremazia degli elfi. Hanno operato contro i ranger e le altre razze di Paludenera per quasi duemila anni.
 
@@ -405,33 +405,33 @@ Attualmente ci sono 158 elfi che dirmorano insieme a 200 schiavi, per lo più or
 
 **1816** Sul fondo della laguna ci sono i resti di una nave che è stata inviata dal rivale del Gran Regno, l'Impero Ocra, per esplorare Paludenera. Contiene diversi scrigni d'oro per la corruzione e preziosi forniture per equipaggiare le spedizioni.
 
-**1902** Questo era un insediamento degli Ostrobardi che è stato bruciato diversi decenni fa dal drago Scytheback (vedi 2105). Era il centro che serviva diverse miniere d'argento abbandonate nelle vicinanze.
+**1902** Questo era un insediamento degli Ostrobardi che è stato bruciato diversi decenni fa dal drago Scytheback (si veda 2105). Era il centro che serviva diverse miniere d'argento abbandonate nelle vicinanze.
 
-**1905** Questo è un accampamento di 15 elfi della Confraternita dei Corvi. Sono guidati da Rinisar Anothil (Guerriero 2/Mago 2). Progettano di risvegliare l'idra (vedi 1701) e guidarla verso sud-ovest per devastare le terre degli Ostrobardi.
+**1905** Questo è un accampamento di 15 elfi della Confraternita dei Corvi. Sono guidati da Rinisar Anothil (Guerriero 2/Mago 2). Progettano di risvegliare l'idra (si veda 1701) e guidarla verso sud-ovest per devastare le terre degli Ostrobardi.
 
-**1911** In questa rete di grotte vivono 105 orchi (1 DV) della Tribù Mangiapipistrelli. Pagano un tributo annuale alla Confraternita del Corvo (vedi 1807).
+**1911** In questa rete di grotte vivono 105 orchi (1 DV) della Tribù Mangiapipistrelli. Pagano un tributo annuale alla Confraternita del Corvo (si veda 1807).
 
 **1914** Una tartaruga drago addormentata (11 DV) è finita nella
 Baia.
 
-**2015** Dieci vichinghi vasani (1 DV) fanno la guardia alle provviste per il viaggio di ritorno della flotta di Egil Longhair (vedi 1406).
+**2015** Dieci vichinghi vasani (1 DV) fanno la guardia alle provviste per il viaggio di ritorno della flotta di Egil Longhair (si veda 1406).
 
-**2105** Questa è la tana di Scytheback, un drago rosso molto vecchio (11 DV). Ha partecipato alla caduta dell'Impero Luminoso più di mille anni fa anni fa e conserva qui i tesori che ha saccheggiato. Ha stretto un'alleanza con la Confraternita del Corvo (vedi 1807) e li considera utili pedine per tenere i visitatori indesiderati lontani dalla sua tana.
+**2105** Questa è la tana di Scytheback, una draghessa rosso molta anziana (11 DV). Ha partecipato alla caduta dell'Impero Luminoso più di mille anni fa anni fa e conserva qui i tesori che ha saccheggiato. Ha stretto un'alleanza con la Confraternita del Corvo (si veda 1807) e li considera utili pedine per tenere i visitatori indesiderati lontani dalla sua tana.
 
-Nel corso dei secoli, ha avuto una successione di compagni per allevare i suoi giovani. Il suo attuale compagno è Dakack, un drago rosso adulto (10 DV), con cui con cui si è accoppiata venti anni fa. Attualmente stanno allevando tre giovani che ora sono sub-adulti (10 DV). Uno di loro è scomparso (vedi 1706).
+Nel corso dei secoli, ha avuto una successione di compagni per allevare i suoi cuccioli. Il suo attuale compagno è Dakack, un drago rosso adulto (10 DV), con cui con cui si è accoppiata venti anni fa. Attualmente stanno allevando tre giovani che ora sono sub-adulti (10 DV). Uno di loro è scomparso (si veda 1706).
 
 **2109** **Il luogo del tributo**: Kinkaris, Guerriero 6, L, Orco; 20 orchi.
 
-Questo rozzo cumulo di pietre serve da torrione per Kinkaris (Guerriero 7, Orco, C) e le sue guardie (Guerriero 3, Orc). Egli è stato incaricato di raccogliere il tributo annuale per la Confraternita del Corvo dai Mangiapipistrelli (vedi 1911) e dalle tribù dei Frantumasangue (vedi 2207).
+Questo rozzo cumulo di pietre serve da torrione per Kinkaris (Guerriero 7, Orco, C) e le sue guardie (Guerriero 3, Orc). Egli è stato incaricato di raccogliere il tributo annuale per la Confraternita del Corvo dai Mangiapipistrelli (si veda 1911) e dalle tribù dei Frantumasangue (si veda 2207).
 
-**2114** Su quest'isola idilliaca cinque sirene (1 DV, fascino) si divertono nei ruscelli, raccogliendo conchiglie e mettendole delicatamente in una d'acqua cristallina al centro dell'isola. Poi nella notte di luna piena raccolgono quelle che si trasformano in viz (4d6) e viaggiano verso la sala del Signore Azzurro. (vedi 2416)
+**2114** Su quest'isola idilliaca cinque sirene (1 DV, fascino) si divertono nei ruscelli, raccogliendo conchiglie e mettendole delicatamente in una d'acqua cristallina al centro dell'isola. Poi nella notte di luna piena raccolgono quelle che si trasformano in viz (4d6) e viaggiano verso la sala del Signore Azzurro. (si veda 2416)
 
 
 **2201** All'interno del castello in rovina, fatto di pietra nera, si trovano contorti resti scheletrici. È ovvio che hanno fatto una fine orribile. Diversi tentativi negli ultimi secoli sono stati fatti per rioccupare il castello. Tuttavia, dopo la luna piena i nuovi abitanti vengono uccisi nello stesso modo. L'ultimo tentativo è stato fatto circa cento anni fa dalla Confraternita del Corvo.
 
 **2203** In questo angolo della foresta, 85 folletti fanno la loro casa. Il loro villaggio in miniatura è sparso tra gli alberi, costruito su piccole piattaforme di legno. Tormentano allegramente chiunque si intrometta.
 
-**2207** Questa rete di caverne è la casa di 243 orchi della Tribù dei Frantumasangue. Sono governati dal re Suduk (Guerriero 8) assistito dal suo sciamano G'mung (Mago 6). Il re Suduk non sopporta di pagare un tributo alla Fratellanza del Corvo e soprattutto odia i Kinkaris (vedi 2109).
+**2207** Questa rete di caverne è la casa di 243 orchi della Tribù dei Frantumasangue. Sono governati dal re Suduk (Guerriero 8) assistito dal suo sciamano G'mung (Mago 6). Il re Suduk non sopporta di pagare un tributo alla Fratellanza del Corvo e soprattutto odia i Kinkaris (si veda 2109).
 
 **2306** Le colline e i burroni risuonano del suono della battaglia quando 15 berserker (Guerriero 1) del Castello di Taldane combattono contro 30 orchi (1 DV) della Tribù dei Frantumasangue. I berserker sono circondati su un crinale tra due gole e sono duramente pressati dagli orchi.
 
@@ -453,13 +453,13 @@ Re Ragnar è conosciuto come il Senza Anello dopo aver perso il suo anello con s
 
 **2509** **Gamla**, Pop: 405, Uomo (vasani); Allineamento N; Governante: Capo Yngvar, Guerriero 12, N; Risorsa: Fattoria.
 
-Protetta dalla palude a ovest, Gamla ha visto una piccola misura di prosperità grazie alla terra fertile. Il capo Yngvar critica re Ragnar (vedi 2505) in ogni occasione. Yngvar sta valutando se sostenerlo o se sollevare una ribellione per rovesciarlo.
+Protetta dalla palude a ovest, Gamla ha visto una piccola misura di prosperità grazie alla terra fertile. Il capo Yngvar critica re Ragnar (si veda 2505) in ogni occasione. Yngvar sta valutando se sostenerlo o se sollevare una ribellione per rovesciarlo.
 
 **2618** Una nave dell'Impero Ocra sta navigando verso Paludenera alla ricerca della spedizione perduta inviata qui cinque anni fa. Essa è comandata da Lord Travvarn (Guerriero 7, L), un potente mirmidone della Chiesa di Sarrath, il Dio Drago. Egli è assistito dall'Arconte Devers (Chierico 5, L), che impone una rigida disciplina tra l'equipaggio e i guerrieri della nave.
 
 **2704** **Cimardita**, Pop: 415, Uomo (vasani); Allineamento N; Governante: Capo Kalfvald, Guerriero 8, N; Risorsa: Fattoria.
 
-Cimardita fornisce gran parte del cibo al Castello di Taldane. Il capo Kalfvald è un vecchio guerriero che ha superato il suo apice. Il capo è ferocemente fedele a re Ragnar e verrà in suo aiuto in qualsiasi lotta con il capo Yngvar (vedi 2509). Tuttavia, suo figlio Hamdir (Guerriero 7) non condivide la lealtà del padre. La morte di Kalfvald altererà drasticamente l'equilibrio di potere di re Ragnar.
+Cimardita fornisce gran parte del cibo al Castello di Taldane. Il capo Kalfvald è un vecchio guerriero che ha superato il suo apice. Il capo è ferocemente fedele a re Ragnar e verrà in suo aiuto in qualsiasi lotta con il capo Yngvar (si veda 2509). Tuttavia, suo figlio Hamdir (Guerriero 7) non condivide la lealtà del padre. La morte di Kalfvald altererà drasticamente l'equilibrio di potere di re Ragnar.
 
 **2706** Quest'isola brulica di granchi giganti (3 DV). Le lunghe navi di Daretop (2704), Castle Taldane (2505), Gamla (2509) e Ysby(2411) vengono qui per cacciare i granchi. È pericoloso, ma è un grande sport per i vichinghi.
 
