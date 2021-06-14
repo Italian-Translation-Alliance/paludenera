@@ -82,16 +82,15 @@ Le conseguenze della Montagna Che Cadde hanno avuto un grande impatto sulla geog
 
 ### Isola di Alhert
 
-Questa lunga isola barriera ha poco di interessante oltre a sterpaglie e sabbia. L'unico cespuglio di Pyrocantha cresce in abbondanza qui. Le sue bacche possono essere raccolte in autunno e usate per creare una pomata che, strofinata sull'armatura, dona un bonus di +1. Sfortunatamente, la pomata dura solo una battaglia, ma si possono applicare dosi aggiuntive. Applicazioni multiple di
-non hanno un effetto cumulativo.
+Questa lunga isola barriera ha poco di interessante oltre a sterpaglie e sabbia. Il peculiare cespuglio di Pyrocantha cresce abbondantemente qui. Le sue bacche possono essere raccolte in autunno e usate per creare una pomata che, strofinata sull'armatura, dona un bonus di +1. Sfortunatamente, la pomata dura solo una battaglia, ma si possono applicare dosi aggiuntive. Applicazioni multiple non hanno un effetto cumulativo.
 
 ### Picchi Dragossa
 
-Le pendici occidentali di queste alte montagne hanno subito la maggior parte dei detriti espulsi dallo schianto della Montagna Che Cadde. I detriti coprono la maggior parte delle valli dei versanti occidentali. Nei secoli successivi, si è formato un esteso sistema di caverne. Si ritiene che la rete si estende per chilometri lungo il bordo occidentale della catena montuosa.
+Le pendici occidentali di queste alte montagne sono state colpite dalla maggior parte dei detriti espulsi dallo schianto della Montagna Che Cadde. I detriti coprono la maggior parte delle valli dei versanti occidentali. Nei secoli successivi, si è formato un esteso sistema di caverne. Si ritiene che la rete si estende per chilometri lungo il bordo occidentale della catena montuosa.
 
 ### Isola di Derivalegno
 
-Le correnti del Mare Grigio hanno fatto sì che quest'isola accumulasse una grande quantità e di altri oggetti trasprotati dal vento e dalla marea. Lungo la penisola di sud-est si possono trovare i resti disseminati di una nave. Sotto un mucchio di alghe c'è il corpo di un giovane uomo vestito nello stile di un alto nobile del Grande Regno. La sua mano stringe una collana con il sigillo reale.
+Le correnti del Mare Grigio hanno fatto sì che quest'isola accumulasse una grande quantità di detriti e di altri oggetti trasportati dal vento e dalla marea. Lungo la penisola di sud-est si possono trovare i resti disseminati di una nave. Sotto un mucchio di alghe c'è il corpo di un giovane uomo vestito nello stile di un alto nobile del Grande Regno. La sua mano stringe una collana con il sigillo reale.
 
 ### Fiume Lanis
 
@@ -156,26 +155,26 @@ Più a sud, il Muroponente forma il confine occidentale della Provincia di Vasa 
 
 |    |                                                                                                                                                                                   |
 |----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | A Stranolmo, gli halfling hanno scoperto una potente spada della legge (F)                                                                                                        |
-| 2  | I goblin vagano per le montagne Pendar (T)                                                                                                                                        |
-| 3  | Fate attenzione a vagare nei boschi grigi, il confine tra i mondi è debole (T)                                                                                                    |
-| 4  | Gli elfi fanno feste sfrenate e dissolute nel castello di Paludenera (F)                                                                                                      |
-| 5  | Il Duca degli Ostrobardi è noto per le sue feste sfrenate (T)                                                                                                                     |
-| 6  | Il Mago dell'Isola permetterà a chiunque gli dica un indovinello che non può risolvere di rimanere sulla Montagna Che Cade (F)                                                    |
+| 1  | A Stranolmo, gli halfling hanno scoperto una potente spada della legge (Falso)                                                                                                        |
+| 2  | I goblin vagano per le montagne Pendar (Vero)                                                                                                                                        |
+| 3  | Fate attenzione a vagare nei boschi grigi, il confine tra i mondi è debole (Vero)                                                                                                    |
+| 4  | Gli elfi fanno feste sfrenate e dissolute nel castello di Paludenera (Falso)                                                                                                      |
+| 5  | Il Duca degli Ostrobardi è noto per le sue feste sfrenate (Vero)                                                                                                                     |
+| 6  | Il Mago dell'Isola permetterà a chiunque gli dica un indovinello che non può risolvere di rimanere sulla Montagna Che Cade (Falso)                                                    |
 | 7  | Lord Mazardan di Vecchia Tenuta offre 1.000 PO per ogni viz portato a lui (parzialmente falso, offrirà 200 PO)                                                                     |
-| 8  | La presa del re Ragnar sul trono del castello di Taldane è debole. Sta per scoppiare una guerra civile (T)                                                                        |
-| 9  | I Ranger di Paludenera stanno reclutando nuovi membri (T)                                                                                                                     |
-| 10 | Sir Causari di Forte Inuacus sta raccogliendo forze per rovesciare gli elfi (F)                                                                                                   |
-| 11 | Tre bellissime fanciulle dimorano nel lago più occidentale delle Paludi Nere, esse doneranno il loro tesoro a coloro che le compiaceranno (F)                                     |
-| 12 | Attenti a coloro che marciano sotto le ali del corvo (T)                                                                                                                          |
-| 13 | Actayl Oathbinder è sopravvissuto allo smantellamento del faro e ora è a Jorvik a raccogliere un esercito (F)                                                                     |
-| 14 | Uno strano maelstrom appare nella parte occidentale della Baia del Fumo. Si può vedere un tesoro sul fondo (T)                                                                    |
-| 15 | Gli Ostrobardi stanno avendo problemi con gli attacchi degli ippogrifi (T)                                                                                                        |
-| 16 | Lord Mazardan ospita ogni anno un sontuoso banchetto a Vecchia Tenuta. Solo gli esploratori di maggior successo sono invitati. (T)                                                 |
-| 17 | I Mirmidoni di Sarrath stanno conducendo una forza di invasione a Paludenera (F)                                                                                              |
-| 18 | Così tanti orchi sono morti nelle Colline Cremisi che le colline sono infestate dai loro spettri (F)                                                                              |
-| 19 | La maggior parte dei maghi dell'epoca dell'Impero Luminoso viveva nei conclavi a sud delle Paludi Nere. Le loro case in rovina sono pericolose, ma molte sono rimaste intatte (T) |
-| 20 | Il duca degli Ostrobardi terrà un grande torneo, il primo nella regione di Paludenera (F)                                                                                     |
+| 8  | La presa del re Ragnar sul trono del castello di Taldane è debole. Sta per scoppiare una guerra civile (Vero)                                                                        |
+| 9  | I Ranger di Paludenera stanno reclutando nuovi membri (Vero)                                                                                                                     |
+| 10 | Sir Causari di Forte Inuacus sta raccogliendo forze per rovesciare gli elfi (Falso)                                                                                                   |
+| 11 | Tre bellissime fanciulle dimorano nel lago più occidentale delle Paludi Nere, esse doneranno il loro tesoro a coloro che le compiaceranno (Falso)                                     |
+| 12 | Attenti a coloro che marciano sotto le ali del corvo (Vero)                                                                                                                          |
+| 13 | Actayl Oathbinder è sopravvissuto allo smantellamento del faro e ora è a Jorvik a raccogliere un esercito (Falso)                                                                     |
+| 14 | Uno strano maelstrom appare nella parte occidentale della Baia del Fumo. Si può vedere un tesoro sul fondo (Vero)                                                                    |
+| 15 | Gli Ostrobardi stanno avendo problemi con gli attacchi degli ippogrifi (Vero)                                                                                                        |
+| 16 | Lord Mazardan ospita ogni anno un sontuoso banchetto a Vecchia Tenuta. Solo gli esploratori di maggior successo sono invitati. (Vero)                                                 |
+| 17 | I Mirmidoni di Sarrath stanno conducendo una forza di invasione a Paludenera (Falso)                                                                                              |
+| 18 | Così tanti orchi sono morti nelle Colline Cremisi che le colline sono infestate dai loro spettri (Falso)                                                                              |
+| 19 | La maggior parte dei maghi dell'epoca dell'Impero Luminoso viveva nei conclavi a sud delle Paludi Nere. Le loro case in rovina sono pericolose, ma molte sono rimaste intatte (Vero) |
+| 20 | Il duca degli Ostrobardi terrà un grande torneo, il primo nella regione di Paludenera (Falso)                                                                                     |
 
 ## Località
 
@@ -225,9 +224,9 @@ Il Gran Capo Cruk governa i coboldi con l'assistenza di altri sei capi della tri
 
 **0605** Un debole muro esiste tra questo mondo e gli altri piani di esistenza nella foresta elfica. Qui il tessuto della realtà è stato lacerato, 48 elfi stanno combattendo contro 12 demoni del fuoco (trattare come elementali del fuoco da 8 DV). Diverse decine di altri elfi circondano il conflitto cercando di contenere la fiamma accesa dal combattimento.
 
-**0608** **Ashdown**, Pop: 121, Misto; Allineamento L; Governante: Consigliere Neera Dane, Guerriero 6, L; Risorsa: Mercato.
+**0608** **Cenerforra**, Pop: 121, Misto; Allineamento L; Governante: Consigliere Neera Dane, Guerriero 6, L; Risorsa: Mercato.
 
-Ashdown è la casa di molti ranger in pensione così come dei coniugi e dei figli dei ranger attualmente in servizio. Neera Dane, un capitano dei ranger in pensione, guida il consiglio del villaggio e opera sotto l'autorità dell'alto capitano dei ranger. Lei e gli abitanti del villaggio saranno lieti di aiutare qualsiasi amico e alleato dei ranger. È possibile trovare Halfling, uomini, nani ed elfi a vivere qui.
+Cenerforra è la casa di molti ranger in pensione così come dei coniugi e dei figli dei ranger attualmente in servizio. Neera Dane, un capitano dei ranger in pensione, guida il consiglio del villaggio e opera sotto l'autorità dell'alto capitano dei ranger. Lei e gli abitanti del villaggio saranno lieti di aiutare qualsiasi amico e alleato dei ranger. È possibile trovare Halfling, uomini, nani ed elfi a vivere qui.
 
 **0610** **Verdello**, Pop: 642, Halfling; Allineamento L; Governante: Ealdorman Paddock Ryburn, L; Risorsa: Fattoria.
 
@@ -252,7 +251,7 @@ La cascata è una ricca fonte di viz. I maghi elfici abitano le fattorie che cir
 
 **0912** Quest'isola è la casa di 100 uomini che pescano nell'isola circostante. L'isola è stata concessa dai signori del Castello di Paludenera in in cambio della sorveglianza contro eventuali razziatori, in particolare i vichinghi vasani. All'estremità sud dell'isola c'è una torre di legno di 20' che può essere essere vista dalla terraferma. Al segnale di pericolo un fuoco sarà acceso e e viene trasmesso lungo una serie di torri di segnalazione al Castello di Paludenera.
 
-**0913** **Castello Paludenera**, Pop: 1.294, Uomini; Allineamento N; Governatore: Governatore Tyrilas, Elfo, Guerriero 4/Mago 2, L; Risorsa: Mercato.
+**0913** **Castello di Paludenera**, Pop: 1.294, Uomini; Allineamento N; Governatore: Governatore Tyrilas, Elfo, Guerriero 4/Mago 2, L; Risorsa: Mercato.
 
 Il Castello di Paludenera è il più grande insediamento della regione di Paludenera. Fu originariamente fondato dall'Impero Luminoso più di mille anni fa e serviva come porto principale per vari insediamenti e conclavi di maghi. Era governata da un governatore nominato dall'imperatore e consigliata da un consiglio di maghi e mercanti.
 
