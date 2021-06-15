@@ -30,6 +30,8 @@ La creatività dell'Arbitro è insita nel non forzare i suoi giocatori a seguire
 
 Il risultato sarà una campagna in cui i giocatori sentiranno di stare forgiando il destino del proprio personaggio all'interno di un mondo vivo e pulsante. Non solo sarà divertente e avventurosa, ma anche piena di sorprese. Le conseguenze si accumuleranno e porteranno la campagna in direzioni inaspettate.
 
+![](./img/paludenera.jpg)
+
 ## Panoramica
 
 Paludenera si trova ai margini della civiltà, situata intorno a una grande baia sul confine occidentale del Mare Grigio. Per un breve periodo, le frontiere dei grandi imperi abbracciarono la regione, ma si ritirarono secoli fa. Ad oggi, rimangono solo pochi avamposti di civiltà in mezzo ai pericoli della natura selvaggia che si sta avvicinando.
@@ -311,7 +313,7 @@ La Compagnia degli Avventurieri è la più grande compagnia carovaniera della Pa
 
 Il regno di Atacyl ha espropriato molti ricchi e nobili abitanti di Paludenera. Costretti a nascondersi, hanno cercato di reagire alla tirannia di Oathbinder. Nei decenni successivi i loro discendenti divennero poco meglio di un gruppo di teppisti organizzati. Oggi, aiutano volentieri coloro che sono scontenti del governo degli elfi mentre gestiscono le loro operazioni illecite per ritorno economico.
 
-{Inserisci la mappa del Castello di Paludenera}
+![](./img/castello_paludenera.jpg)
 
 **0918** Su una scogliera, che domina il lago, si trovano i resti di un conclave di maghi fondato mille anni fa durante il Fulgido Impero. Come gli altri, fu abbandonato poco dopo la caduta dell'impero e rimase disabitato per diversi secoli. Dopo il fallimento del tentativo di Atacyl nel riprendere il controllo del Castello di Paludenera, uno dei suoi luogotenenti, Sir Autse Darkheart (Guerriero 12), ora occupa le rovine. Sir Autse fu trasformato in uno spettro e nominato secondo in comando di Atacyl. Le rovine ora pullulano di scheletri, zombie, wights e wraith minori sotto il comando di Darkheart.
 
