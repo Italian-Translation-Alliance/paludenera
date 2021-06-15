@@ -349,7 +349,7 @@ Diverse miniere di ferro punteggiano le colline a ovest. Lord Varxis ha il suo b
 
 **1305** **Fortizio**, Pop: 895, Man(Ostrobardo); Allineamento L; Sovrano: Duca Caedwine, Guerriero 4, L; Risorsa: Mercato.
 
-Fortizio è il più grande insediamento degli Ostrobardi e la sede dei loro dei loro duchi. Si trova su un'isola in mezzo a una baia formata dalla confluenza del fiume Rednut e del fiume Eamont. Un fiorente mercato di prodotti agricoli, pellicce ed erbe esotiche attrae mercanti da tutto il Mare Grigio.
+Fortizio è il più grande insediamento degli Ostrobardi e la sede dei loro dei loro duchi. Si trova su un'isola in mezzo a una baia formata dalla confluenza del fiume Nocerossa e del fiume Eamont. Un fiorente mercato di prodotti agricoli, pellicce ed erbe esotiche attrae mercanti da tutto il Mare Grigio.
 
 Il duca Caedwin è noto per la sua grande pancia e per i suoi banchetti sfrenati. Ha agenti in tutta la città alla ricerca di nuovi arrivi per fornire un banchetto con i racconti delle loro imprese. Il duca non accetta un no come risposta.
 
