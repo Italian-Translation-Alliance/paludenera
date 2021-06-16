@@ -217,7 +217,7 @@ Il sindaco Olberto, insieme al suo conestabile, mantiene la pace, ma scende in c
 
 **0415** Queste isole sono conosciute come le tre sorelle. Ogni isola è  la dimora di una nixie (1 DV, fascino) e le tre sono sorelle rivali. Usano la loro abilità di Ammaliare le Persone per competere tra loro per i prigionieri più belli. Non disdegnano di cospirare con gli estranei se questo significasse che una delle sorelle si veda negato il suo premio.
 
-**0515** Questa è la dimora del Re del Lago (5 DV, fascino) e la sua corte di 80 nixie (1 DV, fascino). Egli libererà chiunque venga catturato se rapiranno le sue litigiose figlie e le riporteranno a casa sua (si veda 0515).
+**0515** Questa è la dimora del Re del Lago (5 DV, fascino) e la sua corte di 80 nixie (1 DV, fascino). Egli libererà chiunque venga catturato se rapiranno le sue litigiose figlie e le riporteranno a casa sua (si veda 0415).
 
 **0605** Un debole muro esiste tra questo mondo e gli altri piani di esistenza nella foresta elfica. Qui il tessuto della realtà è stato lacerato, 48 elfi stanno combattendo contro 12 demoni del fuoco (trattare come elementali del fuoco da 8 DV). Diverse decine di altri elfi circondano il conflitto cercando di contenere l'incendio causato dal combattimento.
 
