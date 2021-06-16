@@ -42,7 +42,7 @@ A seguito della Frantumazione, la frontiera si ritirò lentamente. Al posto dell
 
 ### La Montagna Che Cadde
 
-Nei giorni in cui l'uomo conosceva solo la lavorazione della pietra e combatteva per la propria sopravvivnenza contro gli orchi e i goblin, il cielo si trasformò in cenere e la montagna infuocata cadde sulla terra. Il mondo si aprì e le grigie acque grigie si precipitarono al suo interno. Quelli che sopravvissero all'impatto si dispersero mentre le bollenti nuvole si espandevano in ogni direzione lasciando dietro di sè  una terra desolata.
+Nei giorni in cui l'uomo conosceva solo la lavorazione della pietra e combatteva per la propria sopravvivenza contro gli orchi e i goblin, il cielo si trasformò in cenere e la montagna infuocata cadde sulla terra. Il mondo si aprì e le acque grigie si precipitarono al suo interno. Quelli che sopravvissero all'impatto si dispersero mentre le bollenti nuvole si espandevano in ogni direzione lasciando dietro di sè  una terra desolata.
 
 La Montagna Che Cadde lasciò un dono: la magia. Vicino e lontano, coloro che erano acuti e forti nello spirito scoprirono nuovi poteri in gradi di plasmare il mondo. Nella desolazione intorno alla Baia del Fumo gli avventurosi trovarono il viz, la magia in forma fisica. E c'era di più, sparsi nel paesaggio c'erano strani artefatti e bizzarre creature sopravvissute alla Montagna Che Cadde. Per un certo periodo uomini, nani, orchi, goblin e altre razze affrontarono i pericoli e combatterono tra loro nelle terre desolate. Poi gli elfi arrivarono a Paludenera, espulsero le razze in lotta, scacciarono i mostri e guarirono la terra.
 
@@ -94,7 +94,7 @@ Le correnti del Mare Grigio hanno fatto sì che quest'isola accumulasse una gran
 
 ### Fiume Lanis
 
-Il fiume Lanis scorre a nord delle Terre Meridionali ed è largo quasi cinque chilometri quando entra a Paludenera. La corrente è profonda e lenta e permette facilmente a navi e chiatte di viaggiare in entrambe le direzioni. I mercanti viaggiano tra il Castello Paludenera, Ovestguardia e il regno nanico di Bolzak. A volte occasionali nave lunghe vasani tentano la fortuna facendo razzie più a sud.
+Il fiume Lanis scorre a nord delle Terre Meridionali ed è largo quasi cinque chilometri quando entra a Paludenera. La corrente è profonda e lenta e permette facilmente a navi e chiatte di viaggiare in entrambe le direzioni. I mercanti viaggiano tra il Castello Paludenera, Ovestguardia e il regno nanico di Bolzak. A volte occasionali navi lunghe vasani tentano la fortuna facendo razzie più a sud.
 
 ### Montagne Pendar
 
@@ -102,7 +102,7 @@ Uno sperone delle Montagne Bianche con cui si collegano un centinaio di miglia a
 
 ### Fiume Nocerossa
 
-Questo fiume prende il suo nome dal numero di boschetti di noce rossa che crescono lungo le sue rive. La noce rossa è considerata una gustosa prelibatezza dagli abitanti e dagli animali di Paludenera. Ogni autunno, sulla superficie del fiume gelleggiano le numerose noci rosse che cadono dagli alberi. Questo ha lo sfortunato effetto di attrarre ippogrifi e grifoni che scendono in picchiata per raccoglierle dall'acqua. Sebbene non disdegnino di dare un morso più sostanzioso agli incauti viaggiatori che si trovino sul fiume.
+Questo fiume prende il suo nome dal numero di boschetti di noce rossa che crescono lungo le sue rive. La noce rossa è considerata una gustosa prelibatezza dagli abitanti e dagli animali di Paludenera. Ogni autunno, sulla superficie del fiume galleggiano le numerose noci rosse che cadono dagli alberi. Questo ha lo sfortunato effetto di attrarre ippogrifi e grifoni che scendono in picchiata per raccoglierle dall'acqua. Sebbene non disdegnino di dare un morso più sostanzioso agli incauti viaggiatori che si trovino sul fiume.
 
 ### Isola di Arenaria 
 
@@ -118,7 +118,7 @@ La Montagna Che Cadde creò la Baia del Fumo e, nel secolo successivo, colonne d
 
 ### Le Paludi Nere
 
-L'impatto della Montagna Che Cadde ha frantumato questa regione formando le le paludi che danno il nome alla zona. Le paludi si estendono per quindici miglia da nord a sud e oltre cinquanta miglia da est a ovest. L'impatto ha lasciato diversi grandi laghi collegati da un confuso labirinto di corsi d'acqua e paludi. Il sito rappresenta nascondiglio conveniente per coloro che vogliono tenere le loro attività al riparo da occhi indiscreti. L'acqua è di colore nero a causa dei minerali che fuoriescono dal terreno e dalla vegetazione circostante.
+L'impatto della Montagna Che Cadde ha frantumato questa regione formando le paludi che danno il nome alla zona. Le paludi si estendono per quindici miglia da nord a sud e oltre cinquanta miglia da est a ovest. L'impatto ha lasciato diversi grandi laghi collegati da un confuso labirinto di corsi d'acqua e paludi. Il sito rappresenta un nascondiglio conveniente per coloro che vogliono tenere le loro attività al riparo da occhi indiscreti. L'acqua è di colore nero a causa dei minerali che fuoriescono dal terreno e dalla vegetazione circostante.
 
 ### Le Colline Cremisi
 
