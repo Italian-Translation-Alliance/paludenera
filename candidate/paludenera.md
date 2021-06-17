@@ -1,4 +1,19 @@
 # Paludenera
+Un supplemento di ambientazione
+
+Compatibile con ***La Scatola Bianca***  
+e tutte le edizioni basate su il gioco di ruolo originale del 1974
+
+Copyright 2011 Robert S. Conley
+Scritto da Robert S. Conley
+Cartografia di Robert S. Conley
+
+Revisione: Tim Shorts e Ken Harrison
+Ispirazione e design, Dwayne Gillingham
+
+Traduzione: Roberto Bisceglie
+
+Revisione: Pieralberto Cavallo, Alessandro Ferrarese
 
 ## Introduzione
 
@@ -207,7 +222,7 @@ Il castello serve come campo di addestramento principale per le nuove reclute de
 
 Il Gran Capitano Sinerian è stato il capo per oltre un secolo e si aspetta di servire per diversi decenni ancora. Le sue più grandi sfide sono state affrontare le incursioni dei vichinghi vasani dall'altra parte del Mare Grigio e il crescente potere del Grande Regno a sud-est. Se le città-stato di Rurasin a nord si dovessero alleare, potrebbero rivelarsi un'ulteriore minaccia per la pace.
 
-**0409 Stranolmo**, Pop: 292, Halfling; Allineamento L; Governante: Sindaco Olberto Fogliarossa, 0-lvl, L; Risorsa: Fattoria.
+**0409 Stranolmo**, Pop: 292, halfling; Allineamento L; Governante: Sindaco Olberto Fogliarossa, 0-lvl, L; Risorsa: Fattoria.
 
 Stranolmo è un villaggio di halfling che circonda una grande collina a sud di dell'Acqualeccio. La regione intorno al villaggio vanta un terreno ricco per l'agricoltura e gli halfling forniscono gran parte del cibo necessario al Castello Quercianera (si veda 0407).
 
@@ -223,17 +238,17 @@ Il sindaco Olberto, insieme al suo conestabile, mantiene la pace, ma scende in c
 
 **0608** **Cenerforra**, Pop: 121, Misto; Allineamento L; Governante: Consigliere Neera Dane, Guerriero 6, L; Risorsa: Mercato.
 
-Cenerforra è la dimora di molti ranger in pensione così come dei coniugi e dei figli dei ranger attualmente in servizio. Neera Dane, un capitano dei ranger in pensione, guida il consiglio del villaggio e opera sotto l'autorità dell'alto capitano dei ranger. Lei e gli abitanti del villaggio saranno lieti di aiutare qualsiasi amico e alleato dei ranger. È possibile incontrare Halfling, uomini, nani ed elfi che vivono qui.
+Cenerforra è la dimora di molti ranger in pensione così come dei coniugi e dei figli dei ranger attualmente in servizio. Neera Dane, un capitano dei ranger in pensione, guida il consiglio del villaggio e opera sotto l'autorità dell'alto capitano dei ranger. Lei e gli abitanti del villaggio saranno lieti di aiutare qualsiasi amico e alleato dei ranger. È possibile incontrare halfling, uomini, nani ed elfi che vivono qui.
 
-**0610** **Verdello**, Pop: 642, Halfling; Allineamento L; Governante: aldermanno Paddock Ryburn, L; Risorsa: Fattoria.
+**0610** **Verdello**, Pop: 642, halfling; Allineamento L; Governante: aldermanno Paddock Ryburn, L; Risorsa: Fattoria.
 
 Verdello è il principale insediamento degli halfling di Valnovella e un importante mercato per le fattorie circostanti. Qui i mercanti di tutta Paludenera accorrono per acquistare grano e altri prodotti da esportare nelle loro regioni d'origine. Quando risiedono, i mercanti alloggiano in un borgo appena fuori Verdello conosciuto come Sacco. Così chiamato per via dei sacchi di lana imbottiti su cui i mercanti si siedono mentre fanno offerte o negoziano i prezzi. L'aldermanno Paddock mantiene un grande contingente di 20 poliziotti guidati dallo Sceriffo Bartoldo Ferroquercia per tenere i mercanti al loro posto.
 
-**0616** Il Bruciacollina scorre attraverso una gola profonda quindi metri per oltre mezzo miglio. Durante il Fulgido Impero, i maghi stabilirono qui un conclave per raccogliere il viz che si trovava nelle scogliere della gola. Due secoli dopo la caduta dell'impero, il conclave fu abbandonato. Le scogliere sono scavate dai diversi livelli del conclave. Molti dei livelli si estendono su entrambi i lati della gola con ponti che li collegano. Non tutti sono sicuri.
+**0616** Il Bruciacollina scorre attraverso una gola profonda quindici metri per oltre mezzo miglio. Durante il Fulgido Impero, i maghi stabilirono qui un conclave per raccogliere il viz che si trovava nelle scogliere della gola. Due secoli dopo la caduta dell'impero, il conclave fu abbandonato. Le scogliere sono scavate dai diversi livelli del conclave. Molti dei livelli si estendono su entrambi i lati della gola con ponti che li collegano. Non tutti sono sicuri.
 
 **0702** Sei troll (6 DV, rigenerazione) banchettano con i cadaveri di un mercante ucciso di Fortizio (si veda 1305). Il fumo del loro fuoco può essere visto da due miglia di distanza.
 
-**0712** Questa torre in rovina una volta era usata come faro e guidava le navi verso la foce del fiume Lanis. Costruita durante il Fulgido Impero fu abbandonata diversi secoli fa. Da allora, una successione di signori del caos ha ampliato il complesso sotto la torre per creare una base da usata contro il Castello di Paludenera (si veda 0913). Attualmente, si crede che sia vuota, essendo stata sgomberata dagli avventurieri più di quarant'anni fa dopo l'uccisione di Atacyl Oathbinder, un vampiro mago non morto.
+**0712** Questa torre in rovina una volta era usata come faro e guidava le navi verso la foce del fiume Lanis. Costruita durante il Fulgido Impero fu abbandonata diversi secoli fa. Da allora, una successione di signori del caos ha ampliato il complesso sotto la torre per creare una base da usare contro il Castello di Paludenera (si veda 0913). Attualmente, si crede che sia vuota, essendo stata sgomberata dagli avventurieri più di quarant'anni fa dopo l'uccisione di Atacyl Oathbinder, un vampiro mago non morto.
 
 **0804** **Cascate di Valstella**, Pop: 503, Elfo; Allineamento L; Governante: Re Nilal, Guerriero 4/Mago 8, L; Risorsa: Magia.
 
@@ -250,9 +265,9 @@ La cascata è una ricca fonte di viz. I maghi elfici abitano le fattorie che cir
 
 **0913** **Castello di Paludenera**, Pop: 1.294, Uomini; Allineamento N; Governatore: Governatore Tyrilas, Elfo, Guerriero 4/Mago 2, L; Risorsa: Mercato.
 
-Il Castello di Paludenera è il più grande insediamento della regione di Paludenera. Venne originariamente fondato dal Fulgido impero più di mille anni fa e fungeva da porto principale per vari insediamenti e conclavi di maghi. Era governata da un governatore nominato dall'imperatore e consigliato da un concilio di maghi e mercanti.
+Il Castello di Paludenera è il più grande insediamento della regione di Paludenera. Venne originariamente fondato dal Fulgido Impero più di mille anni fa e fungeva da porto principale per vari insediamenti e conclavi di maghi. Era governata da un governatore nominato dall'imperatore e consigliato da un concilio di maghi e mercanti.
 
-Sopravvisse alla caduta del Fulgido impero e divenne una città-stato indipendente che dominava gli insediamenti lungo la costa meridionale della Baia del Fumo. Il declino economico causò l'abbandono della maggior parte degli insediamenti circostanti un secolo dopo il crollo dell'impero. I maghi si stabilirono nel castello di Paludenera, formando un conclave nel castello.
+Sopravvisse alla caduta del Fulgido Impero e divenne una città-stato indipendente che dominava gli insediamenti lungo la costa meridionale della Baia del Fumo. Il declino economico causò l'abbandono della maggior parte degli insediamenti circostanti un secolo dopo il crollo dell'impero. I maghi si stabilirono nel castello di Paludenera, formando un conclave nel castello.
 
 Dominarono la città-stato per diversi secoli alleandosi occasionalmente con le altre razze per sconfiggere le minacce comuni. In quel periodo la popolazione della città si stabilizzò e trovò una piccola quantità di prosperità mentre gli avventurieri entravano a Paludenera alla ricerca di viz.
 
@@ -279,7 +294,7 @@ Questo tempio fu fondato subito dopo la caduta di Atacyl. Con i loro alleati, i 
 
 ### 4) Sala dei banchetti delle Gamballegre
 
-Questa è la più grande sala banchetti del Castello di Paludenera. A differenza del Viz Club non è esclusiva e ogni gruppo di avventurieri che è disposto a pagare la quota può utilizzare la sala. Pangando le sue tariffe è possibile fare uso della sala principale e delle molte sale da pranzo private. Mette anche a disposizione suite di 3 o 4 stanze da affittare ai gruppi che hanno bisogno di un posto dove stare. Durante le ore serali, i mercanti, carovanieri e capitani di navi cenano e bevono nella sala principale in cerca di opportunità di affari. A partire da un'ora dopo il tramonto inizia lo spettacolo, con bardi che cantano, danzatrici che ballano e giocolieri nani.
+Questa è la più grande sala banchetti del Castello di Paludenera. A differenza del Viz Club non è esclusiva e ogni gruppo di avventurieri che è disposto a pagare la quota può utilizzare la sala. Pagando le sue tariffe è possibile fare uso della sala principale e delle molte sale da pranzo private. Mette anche a disposizione suite di 3 o 4 stanze da affittare ai gruppi che hanno bisogno di un posto dove stare. Durante le ore serali, i mercanti, carovanieri e capitani di navi cenano e bevono nella sala principale in cerca di opportunità di affari. A partire da un'ora dopo il tramonto inizia lo spettacolo, con bardi che cantano, danzatrici che ballano e giocolieri nani.
 
 ### 5) La Locanda dello Studioso
 
@@ -331,7 +346,7 @@ Mertorba è stata colonizzata dagli Ostrobardi diversi secoli fa ed è è divent
 
 Questo torrione è un avamposto del Castello di Paludenera e protegge le fattorie circostanti dai mostri che si muovono verso nord dalle Paludi Nere, così come i lealisti di Atacyl che si trovano a Jorvik. Sir Causari è il capo di una fazione che vuole vedere gli elfi lasciare il Castello di Paludenera e ripristinare il dominio umano.
 
-**1213** Sulla Collina delle Streghe si trovano le fondamenta di Ramat, un vecchio monastero thothiano in rovina, risalente ai tempi del Fulgido Impero. Era sede di un potente artefatto sacro noto come la Lancia di Ramat. Tutti i documenti del monastero sono andati persi dopo la ritirata dell'impero. In tempi recenti, la giovane figlia del governatore Causari di Forte Inuacus ha perso il suo cane preferito mentre faceva un picnic vicino alle rovine. Il governatore pagherà volentieri un gruppo di avventurieri per cercare il cane nelle rovine (si veda le Rovine di Ramat, pubblicato da Brave Halfling Publishing).
+**1213** Sulla Collina delle Streghe si trovano le fondamenta di Ramat, un vecchio monastero thothiano in rovina, risalente ai tempi del Fulgido Impero. Era sede di un potente artefatto sacro noto come la Lancia di Ramat. Tutti i documenti del monastero sono andati persi dopo la ritirata dell'impero. In tempi recenti, la giovane figlia del governatore Causari di Forte Inuacus ha perso il suo cane preferito mentre faceva un picnic vicino alle rovine. Il governatore pagherà volentieri un gruppo di avventurieri per cercare il cane nelle rovine (si veda le Rovine di Ramat, pubblicato da Brave halfling Publishing).
 
 **1214** Quest'isola ospita una congrega di stregoni. Questa congrega è stata fondata un secolo fa dopo la caduta del Castello di Paludenera. Alcuni maghi sopravvissuti fuggirono qui con il corpo di Atacyl e supervisionarono la sua resurrezione come vampiro. Nel processo di trasformazione, Atacyl massacrò metà della congrega prima di fuggire nelle paludi. Da allora la congrega ha lottato per sopravvivere e solo pochi membri anziani sono rimasti.
 
@@ -427,7 +442,7 @@ Questo rozzo cumulo di pietre serve da torrione per Kinkaris (Guerriero 7, Orco,
 
 **2401** Lungo un tratto di mezzo miglio della valle del fiume ci sono le tane di 300 formiche giganti (2 DV). La camera della regina è costruita intorno a un lungo manufatto cubico sepolto 10' per 10' per 10'. C'è una porta su un lato del manufatto, ma le formiche giganti non l'hanno aperta. Un uovo di formica su venti può essere usato come un singola viz.
 
-**2410** Sei pilastri neri alti sei metri rivestiti di strane incisioni possono essere visti attraverso l'acqua dalla cima di una riva poco profonda. Ad un ulteriore esame, ci sono compartimenti alle estremità dei pilastri dove le viz possono essere inseriti.
+**2410** Sei pilastri neri alti sei metri rivestiti di strane incisioni possono essere visti attraverso l'acqua dalla cima di una riva poco profonda. Ad un ulteriore esame, ci sono compartimenti alle estremità dei pilastri dove le viz possono essere inserite.
 
 **2411** **Ysby**, Pop: 80, Uomo (vasani); Allineamento N; Governante: Capo Bjarni, Guerriero 5, N; Risorsa: Pesce.
 
@@ -435,7 +450,7 @@ Questo villaggio di pescatori dei vichinghi vasani è stato fondato duecento ann
 
 **2416** Un monte marino si erge dal fondo dell'oceano a circa 45 metri sotto la superficie. Intorno alla cima e giù per 240 metri ci sono le grotte e le caverne del Re Azzurro (Guerriero 12), un potente signore dei tritoni. Egli governa una tribù di 300 tritoni. L'Incantatrice Zaffiro (Mago 12, Tritone) è la sua consigliera e l'attuale amante del Mago dell'Isola.
 
-**2505** **Castello Taldane**: Re Ragnar il senza anelli, Guerriero 9, N, Uomini (vasani); 200 uomini (vasani).
+**2505** **Castello Taldane**: Re Ragnar il Senza Anello, Guerriero 9, N, Uomini (vasani); 200 uomini (vasani).
 
 Il nonno di re Ragnar venne espropriato dalla conquista di Vasa da parte il Grande Regno. Egli fuggì con i beni che poteva trasportare e portò con sé il maggior numero possibile di membri dei suoi clan e di quelli alleati. Nei decenni successivi i piccoli re di Taldane sognarono di riconquistare la loro casa, ma se è stata una lotta sopravvivere a Paludenera, figuriamoci ricostruire abbastanza truppe per organizzare una grande spedizione militare.
 
