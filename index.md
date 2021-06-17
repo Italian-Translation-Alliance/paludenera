@@ -1,7 +1,7 @@
 # Paludenera
 Un supplemento di ambientazione
 
-Compatibile con ***La Scatola Bianca***  
+Compatibile con [***La Scatola Bianca***](https://italian-translation-alliance.github.io/la-scatola-bianca/)  
 e tutte le edizioni basate su il gioco di ruolo originale del 1974
 
 Copyright 2011 Robert S. Conley
